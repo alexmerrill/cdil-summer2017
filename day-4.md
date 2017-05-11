@@ -42,6 +42,7 @@ Connecting Thread:
 
 - [VisualEyes](http://www.viseyes.org/visualeyes/) (map, timeline, text)
 - [WorldMap](http://worldmap.harvard.edu/) (harvard open GIS platform)
+- [Timemapper](http://timemapper.okfnlabs.org/)
 
 ## Omeka 
 

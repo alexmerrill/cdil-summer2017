@@ -58,6 +58,10 @@ hastac [The Pedagogy Project](https://www.hastac.org/pedagogy-project) (contribu
 
 Daniel J Cohen and Roy Rosenzweig, *Digital History: A Guide to Gathering, Preserving, and Presenting the Past on the Web*, [web](http://chnm.gmu.edu/digitalhistory/)
 
+T. Mills Kelly, *Teaching History in the Digital Age*, [web](http://dx.doi.org/10.3998/dh.12146032.0001.001)
+
+University of Michigan [Digital Humanities series](http://www.digitalculture.org/books/book-series/digital-humanities-series/) (free ebooks)
+
 ## Syllabi
 
 Miriam Posner [DH101](http://miriamposner.com/dh101f15/)
@@ -70,9 +74,13 @@ Graham, Shawn. (2016). A Workbook for Crafting Digital History. Zenodo. 10.5281/
 
 Lincoln Mullen, Computational Historical Thinking: With Applications in R (2017): http://dh-r.lincolnmullen.com.
 
+[Bucknell DH Course Websites](http://dhpedagogy.blogs.bucknell.edu/bucknell-dh-course-websites/)
+
 ## GitHub
 
 GitHub for Academics, http://www.digitalpedagogylab.com/hybridped/push-pull-fork-github-for-academics/
+
+[Why you should use GitHub: Lessons for the classroom and newsroom](http://www.storybench.org/use-github-lessons-classroom-newsroom/)
 
 ## DH making
 
