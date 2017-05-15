@@ -62,6 +62,14 @@ T. Mills Kelly, *Teaching History in the Digital Age*, [web](http://dx.doi.org/1
 
 University of Michigan [Digital Humanities series](http://www.digitalculture.org/books/book-series/digital-humanities-series/) (free ebooks)
 
+How the internet works, idealistic canadian vid: https://youtu.be/i5oe63pOhLI
+demo IP addresses, `ping www.google.com` , `nslookup www.google.com` , `host www.google.com` , traceroute / tracert / tracepath `tracepath www.google.com` , `whois`
+layers:
+- Application Protocols Layer (http, ftp, smtp)
+- Transmission Control Protocol (TCP, directs packets to specific applications using ports) 
+- Internet Protocol Layer (IP, directs packets to specific machines)
+- Hardware Layer (binary data to network signals)
+
 ## Syllabi
 
 Miriam Posner [DH101](http://miriamposner.com/dh101f15/)
@@ -70,11 +78,13 @@ Jeffrey McClurken [Adventures in Digital History](http://courses.mcclurken.org/a
 
 Shawn Graham [Crafting Digital History](http://site.craftingdigitalhistory.ca/) (github, reclaim, hypothes.is, slack)
 
-Graham, Shawn. (2016). A Workbook for Crafting Digital History. Zenodo. 10.5281/zenodo.60497 http://workbook.craftingdigitalhistory.ca/
-
-Lincoln Mullen, Computational Historical Thinking: With Applications in R (2017): http://dh-r.lincolnmullen.com.
-
 [Bucknell DH Course Websites](http://dhpedagogy.blogs.bucknell.edu/bucknell-dh-course-websites/)
+
+## Textbooks 
+
+Lincoln Mullen, Computational Historical Thinking: With Applications in R (2017), http://dh-r.lincolnmullen.com
+
+Graham, Shawn. (2016). A Workbook for Crafting Digital History. Zenodo. 10.5281/zenodo.60497 http://workbook.craftingdigitalhistory.ca/
 
 ## GitHub
 

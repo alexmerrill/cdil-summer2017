@@ -38,6 +38,8 @@ Connecting Thread:
 
 # Stuff
 
+http://lincolnmullen.com/projects/spatial-workshop/
+
 ## Maps
 
 - [VisualEyes](http://www.viseyes.org/visualeyes/) (map, timeline, text)
@@ -58,8 +60,10 @@ Connecting Thread:
 
 ## Other 
 
-[Hypothes.is](https://hypothes.is/) annotation layer, add to site or WP
+[Hypothes.is](https://hypothes.is/) annotation layer, add to site or WP, [educators guide](https://hypothes.is/education/)
 
 [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
 
 curation assignments, https://www.cultofpedagogy.com/curation/ 
+
+web archiving: archive.org perma.cc 
