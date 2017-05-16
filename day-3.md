@@ -28,7 +28,7 @@ distant versus close reading, NLP versus digital editing
 
 Connecting Thread:
 
-# Stuff
+## Stuff
 
 [DiRT Directory](http://dirtdirectory.org/)
 
@@ -45,3 +45,10 @@ bookworm http://bookworm.culturomics.org/
 catch 22 viz, http://trevorstephens.com/ramblings/catch-22-visualized/
 
 teaching dh code, list of books, http://scottbot.net/teaching-yourself-to-code-in-dh/ 
+
+Silge, Julia, and David Robinson. Tidy Text Mining in R, 2016. http://tidytextmining.com/.
+
+[Text Analysis for Historians](http://lincolnmullen.com/courses/text-analysis.2016/) syllabus
+
+Jeffrey M. Binder, "Alien Reading: Text Mining, Language Standardization, and the Humanities" in *Debates in the Digital Humanities* (2016),
+http://dhdebates.gc.cuny.edu/debates/text/69

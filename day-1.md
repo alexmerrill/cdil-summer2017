@@ -58,6 +58,8 @@ hastac [The Pedagogy Project](https://www.hastac.org/pedagogy-project) (contribu
 
 Daniel J Cohen and Roy Rosenzweig, *Digital History: A Guide to Gathering, Preserving, and Presenting the Past on the Web*, [web](http://chnm.gmu.edu/digitalhistory/)
 
+*Debates in the Digital Humanities* ed. Lauren F. Klein and Matthew K Gold (2016), http://dhdebates.gc.cuny.edu/
+
 T. Mills Kelly, *Teaching History in the Digital Age*, [web](http://dx.doi.org/10.3998/dh.12146032.0001.001)
 
 University of Michigan [Digital Humanities series](http://www.digitalculture.org/books/book-series/digital-humanities-series/) (free ebooks)
