@@ -36,13 +36,23 @@ talk about outcomes for the week and collaborative project.
 
 Pedagogical Application: computational thinking, physical computing - project based learning / "media computing", "critical making"
 
+# Text editor!
+
+All code is plain text.
+The web is plain text.
+You need a good text editor!
+
+- [Notepad++](https://notepad-plus-plus.org/) (windows)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Atom](https://atom.io/)
+
 # Stuff
 
 [What is Digital Humanities?](http://whatisdigitalhumanities.com/)
 Arduino project
 Version control, Git / GitHub
 
-DHSI pedagogy course packet, http://dhsi.org/content/2016Curriculum/11.%20Digital%20Humanities%20Pedagogy-%20Integration%20in%20the%20Curriculum%20(2016).pdf
+DHSI 2016 [DH Pedagogy course packet](http://dhsi.org/content/2016Curriculum/11.%20Digital%20Humanities%20Pedagogy-%20Integration%20in%20the%20Curriculum%20(2016).pdf)
 
 Leo Porter, Mark Guzdial, Charlie McDowell, and Beth Simon, “Success in Introductory Programming: What Works?” Communications of the ACM 56, 8 (2013), [DOI:10.1145/2492007.2492020](https://doi.org/10.1145/2492007.2492020).
 - Spoiler: Pair programming, Media Computation, and Peer Instruction. Essentially active, collaborative learning with realistic, meaningful research projects drastically improved learning outcomes and retention in intro CS.
@@ -87,24 +97,26 @@ Jeffrey McClurken [Adventures in Digital History](http://courses.mcclurken.org/a
 
 Shawn Graham [Crafting Digital History](http://site.craftingdigitalhistory.ca/) (github, reclaim, hypothes.is, slack)
 
+Lincoln Mullen [classes](http://lincolnmullen.com/#classes)
+
 [Bucknell DH Course Websites](http://dhpedagogy.blogs.bucknell.edu/bucknell-dh-course-websites/)
 
 ## Textbooks 
 
-Lincoln Mullen, Computational Historical Thinking: With Applications in R (2017), http://dh-r.lincolnmullen.com
+Lincoln Mullen, *Computational Historical Thinking: With Applications in R* (2017), http://dh-r.lincolnmullen.com
 
-Graham, Shawn. (2016). A Workbook for Crafting Digital History. Zenodo. 10.5281/zenodo.60497 http://workbook.craftingdigitalhistory.ca/
+Shawn Graham, *A Workbook for Crafting Digital History* (2016), DOI:10.5281/zenodo.60497 http://workbook.craftingdigitalhistory.ca/
 
 ## GitHub
 
-GitHub for Academics, http://www.digitalpedagogylab.com/hybridped/push-pull-fork-github-for-academics/
+Kris Shaffer, "Push, Pull, Fork: GitHub for Academics", Digital Pedagogy Lab (2013) http://www.digitalpedagogylab.com/hybridped/push-pull-fork-github-for-academics/
 
 [Why you should use GitHub: Lessons for the classroom and newsroom](http://www.storybench.org/use-github-lessons-classroom-newsroom/)
 
 ## DH making
 
-critical making, http://www.tandfonline.com/doi/pdf/10.1080/01972243.2011.583819
-wearables, https://www.zotero.org/groups/soft_circuitry/items
+[Jentery Sayers](http://www.jenterysayers.com/), [MLab](http://maker.uvic.ca/) UVic
 
-arduino heuretics, http://alex-reid.net/2015/05/arduino-heuretics.html 
-arduino dh courses poster, http://journalofdigitalhumanities.org/2-3/programming-with-arduino-for-digital-humanities/
+Matt Ratto, "Critical Making: Conceptual and Material Studies in Technology and Social Life", *Information Society* 27 (2011) DOI:10.1080/01972243.2011.583819
+
+Kazushi Ohya, "Programming with Arduino for Digital Humanities", *JDH* 2, 3 (2013), http://journalofdigitalhumanities.org/2-3/programming-with-arduino-for-digital-humanities/
