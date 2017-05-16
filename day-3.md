@@ -44,6 +44,8 @@ http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by
 bookworm http://bookworm.culturomics.org/ 
 catch 22 viz, http://trevorstephens.com/ramblings/catch-22-visualized/
 
+texttexture, http://textexture.com/
+
 teaching dh code, list of books, http://scottbot.net/teaching-yourself-to-code-in-dh/ 
 
 Silge, Julia, and David Robinson. Tidy Text Mining in R, 2016. http://tidytextmining.com/.

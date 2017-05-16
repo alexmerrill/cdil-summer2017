@@ -64,8 +64,15 @@ T. Mills Kelly, *Teaching History in the Digital Age*, [web](http://dx.doi.org/1
 
 University of Michigan [Digital Humanities series](http://www.digitalculture.org/books/book-series/digital-humanities-series/) (free ebooks)
 
-How the internet works, idealistic canadian vid: https://youtu.be/i5oe63pOhLI
+## How the internet works
+
+idealistic canadian vid: https://youtu.be/i5oe63pOhLI
+
+http://example.com/about?key=value#anchor
+URL = protocol + domain name (or IP, optional port :80) + path + query / parameters + fragment/anchor
+
 demo IP addresses, `ping www.google.com` , `nslookup www.google.com` , `host www.google.com` , traceroute / tracert / tracepath `tracepath www.google.com` , `whois`
+
 layers:
 - Application Protocols Layer (http, ftp, smtp)
 - Transmission Control Protocol (TCP, directs packets to specific applications using ports) 
