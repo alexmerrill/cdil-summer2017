@@ -1,5 +1,6 @@
 ---
 title: Data Day
+day: 3
 ---
 
 # Outline
@@ -59,6 +60,16 @@ Johanna Drucker, "Humanities Approaches to Graphical Display", dhq 5, 1 (2011) [
 
 [Against Cleaning](http://curatingmenus.org/articles/against-cleaning/)
 
- Fred Gibbs and Trevor Owens, [The Hermeneutics of Data and Historical Writing](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:7/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#7.3)
+Fred Gibbs and Trevor Owens, [The Hermeneutics of Data and Historical Writing](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:7/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#7.3)
 
- Posner [Cytoscape tutorials](https://github.com/miriamposner/cytoscape_tutorials) (network graph classroom tutorials shared on github)
+Posner [Cytoscape tutorials](https://github.com/miriamposner/cytoscape_tutorials) (network graph classroom tutorials shared on github)
+
+# Stuff
+
+http://lincolnmullen.com/projects/spatial-workshop/
+
+## Maps
+
+- [VisualEyes](http://www.viseyes.org/visualeyes/) (map, timeline, text)
+- [WorldMap](http://worldmap.harvard.edu/) (harvard open GIS platform)
+- [Timemapper](http://timemapper.okfnlabs.org/)

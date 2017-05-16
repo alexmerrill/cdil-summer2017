@@ -1,5 +1,6 @@
 ---
 title: Text Analysis
+day: 4
 ---
 
 # Outline
