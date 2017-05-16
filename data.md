@@ -68,8 +68,12 @@ Posner [Cytoscape tutorials](https://github.com/miriamposner/cytoscape_tutorials
 
 http://lincolnmullen.com/projects/spatial-workshop/
 
-## Maps
+## Tools
 
 - [VisualEyes](http://www.viseyes.org/visualeyes/) (map, timeline, text)
 - [WorldMap](http://worldmap.harvard.edu/) (harvard open GIS platform)
 - [Timemapper](http://timemapper.okfnlabs.org/)
+- [StoryMapJS](https://storymap.knightlab.com/)
+- [Palladio](http://hdlab.stanford.edu/palladio/)
+- [TimelineJS](https://timeline.knightlab.com/)
+- [rawgraphs](http://rawgraphs.io/)
