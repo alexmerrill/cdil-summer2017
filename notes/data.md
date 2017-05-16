@@ -66,6 +66,8 @@ Posner [Cytoscape tutorials](https://github.com/miriamposner/cytoscape_tutorials
 
 # Stuff
 
+Evan's [data viz notes](https://evanwill.github.io/_drafts/notes/viz-notes.html)
+
 http://lincolnmullen.com/projects/spatial-workshop/
 
 ## Tools

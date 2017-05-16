@@ -80,7 +80,7 @@ layers:
 
 ## GitHub
 
-Kris Shaffer, "Push, Pull, Fork: GitHub for Academics", Digital Pedagogy Lab (2013), http://www.digitalpedagogylab.com/hybridped/push-pull-fork-github-for-academics/
+Kris Shaffer, ["Push, Pull, Fork: GitHub for Academics"](http://www.digitalpedagogylab.com/hybridped/push-pull-fork-github-for-academics/), *Digital Pedagogy Lab* (2013).
 
 [Why you should use GitHub: Lessons for the classroom and newsroom](http://www.storybench.org/use-github-lessons-classroom-newsroom/)
 

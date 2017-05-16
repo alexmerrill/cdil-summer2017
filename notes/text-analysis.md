@@ -47,6 +47,8 @@ catch 22 viz, http://trevorstephens.com/ramblings/catch-22-visualized/
 
 texttexture, http://textexture.com/
 
+Evan's [notes](https://evanwill.github.io/_drafts/notes/text-analysis.html)
+
 teaching dh code, list of books, http://scottbot.net/teaching-yourself-to-code-in-dh/ 
 
 Silge, Julia, and David Robinson. Tidy Text Mining in R, 2016. http://tidytextmining.com/.
