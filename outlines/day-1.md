@@ -42,23 +42,18 @@ Install Git. See [Get Git prep](https://uidaholib.github.io/get-git/0prep.html).
 
 ## The Web
 
-idealistic canadian vid: https://youtu.be/i5oe63pOhLI
+Idealistic Canadian video: [How Does the Internet Work ?](https://youtu.be/i5oe63pOhLI)
+
+<!-- enbed <iframe width="560" height="315" src="https://www.youtube.com/embed/i5oe63pOhLI" frameborder="0" allowfullscreen></iframe> -->
 
 A network is two or more computers connected.
 The internet is network of networks.
 
 What's in a URL:
-- http://example.com/about?key=value#anchor
+- https://example.com/about?key=value#anchor
 - protocol + domain name (or IP, optional port :80) + path + query / parameters + fragment/anchor
 
-layers:
-- Application Protocols Layer (http, ftp, smtp)
-- Transmission Control Protocol (TCP, directs packets to specific applications using ports) 
-- Internet Protocol Layer (IP, directs packets to specific machines)
-- Hardware Layer (binary data to network signals)
-
-
-demo IP addresses: 
+Demo IP addresses: 
 - `ping www.google.com` 
 - `nslookup www.lib.uidaho.edu` 
 - traceroute / tracert / tracepath `tracepath www.google.com`
