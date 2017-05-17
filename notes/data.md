@@ -75,7 +75,7 @@ http://lincolnmullen.com/projects/spatial-workshop/
 - [VisualEyes](http://www.viseyes.org/visualeyes/) (map, timeline, text)
 - [WorldMap](http://worldmap.harvard.edu/) (harvard open GIS platform)
 - [Timemapper](http://timemapper.okfnlabs.org/)
-- [StoryMapJS](https://storymap.knightlab.com/)
+- [StoryMapJS](https://storymap.knightlab.com/), [advanced](https://storymap.knightlab.com/advanced/)
 - [Palladio](http://hdlab.stanford.edu/palladio/)
 - [TimelineJS](https://timeline.knightlab.com/)
 - [rawgraphs](http://rawgraphs.io/)
