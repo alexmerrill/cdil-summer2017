@@ -79,3 +79,4 @@ http://lincolnmullen.com/projects/spatial-workshop/
 - [Palladio](http://hdlab.stanford.edu/palladio/)
 - [TimelineJS](https://timeline.knightlab.com/)
 - [rawgraphs](http://rawgraphs.io/)
+- [geoJSON on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github/)
