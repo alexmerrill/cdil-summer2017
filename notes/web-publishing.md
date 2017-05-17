@@ -94,3 +94,5 @@ T. Mills Kelly, *Teaching History in the Digital Age*, [web](http://dx.doi.org/1
 University of Michigan [Digital Humanities series](http://www.digitalculture.org/books/book-series/digital-humanities-series/) (free ebooks)
 
 [Victorian Web](http://www.victorianweb.org/misc/vwintro.html) (since 1987, pre-internet)
+
+[dhcommons](http://dhcommons.org/)

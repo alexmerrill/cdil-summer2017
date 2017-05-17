@@ -38,9 +38,9 @@ It will be on your profile and web URLs.
 
 Install Git. See [Get Git prep](https://uidaholib.github.io/get-git/0prep.html).
 
-# Lunch break
+> # Lunch break
 
-## The Web
+## 4. The Web
 
 Idealistic Canadian video: [How Does the Internet Work ?](https://youtu.be/i5oe63pOhLI)
 
@@ -58,13 +58,13 @@ Demo IP addresses:
 - `nslookup www.lib.uidaho.edu` 
 - traceroute / tracert / tracepath `tracepath www.google.com`
 
-## Set up Reclaim hosting 
+### Join the web: Set up Reclaim hosting 
 
-## Version Control: Git/GitHub
+## 5. Version Control: Git/GitHub
 
 Check [Get Git!](https://uidaholib.github.io/get-git/)
 
-## Write in plain text: Markdown
+## 6. Write in plain text: Markdown
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 
 [GitHub markdown flavor](https://help.github.com/articles/basic-writing-and-formatting-syntax/) can be used any where on GitHub.
@@ -112,7 +112,7 @@ Click "Edit" button to try some more.
 
 Check out this [GitHub Markdown tutorial](https://guides.github.com/features/mastering-markdown/) for more info.
 
-## Discussion
+## 7. Discussion
 
 - [What is Digital Humanities?](http://whatisdigitalhumanities.com/) (and its [repository](https://github.com/hepplerj/whatisdigitalhumanities))
 - Individual projects, assignment ideas
@@ -139,4 +139,4 @@ GitHub in Education:
 Markdown for writing:
 - Dennis Tenen and Grant Wythoff, [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown), *Programming Historian* (2014). ([Pandoc](http://pandoc.org/installing.html) coverts `.md` to other formats such as PDF or .docx)
 - [Markdowntutorial](http://www.markdowntutorial.com) (step-by-step 10 minute tutorial)
-- Evan's [Writing in Markdown](https://evanwill.github.io/_drafts/notes/writing-markdown.html)
+- Evan's [Writing in Markdown](https://evanwill.github.io/_drafts/notes/writing-markdown.html) notes
