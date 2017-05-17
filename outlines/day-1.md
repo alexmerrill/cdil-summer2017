@@ -69,8 +69,8 @@ Check [Get Git!](https://uidaholib.github.io/get-git/)
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 
 [GitHub markdown flavor](https://help.github.com/articles/basic-writing-and-formatting-syntax/) can be used any where on GitHub.
 
-Practice by starting a [GitHub Gist](https://gist.github.com/).
-Give it file name ending with .md (`test.md`) and paste in this Markdown code:
+Create a file in your test repository and give it file name ending with .md (`test.md`). 
+Paste in this Markdown code:
 
 ```
 # Heading one
@@ -106,9 +106,6 @@ A horizontal divide is just some dashes:
 
 ----
 ```
-
-Click "Create public Gist" to see it rendered.
-Click "Edit" button to try some more.
 
 Check out this [GitHub Markdown tutorial](https://guides.github.com/features/mastering-markdown/) for more info.
 
