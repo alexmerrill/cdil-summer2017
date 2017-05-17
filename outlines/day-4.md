@@ -2,14 +2,17 @@
 
 > Text analysis
 
-## Resources
+# Resources
 
 Jeffrey M. Binder, "Alien Reading: Text Mining, Language Standardization, and the Humanities" in *Debates in the Digital Humanities* (2016),
 http://dhdebates.gc.cuny.edu/debates/text/69
 
+Stanford Literary Lab [Pamphlets](http://litlab.stanford.edu/pamphlets/). (ongoing series of publications relating to "computational criticism")
+
 Tools directories:
 - [DiRT Directory](http://dirtdirectory.org/)
 - [TAPoR 3](http://tapor.ca/home)
+- [Keshif VisTools](https://keshif.me/demo/VisTools)
 
 Textbooks:
 - Brandon Walsh and Sarah Horowitz, [Introduction to Text Analysis: A Coursebook](http://walshbr.com/textanalysiscoursebook/) (2016). (Open textbook, Jekyll project hosted on gh-pages, [repo](https://github.com/walshbr/textanalysiscoursebook))
@@ -22,3 +25,5 @@ Textbooks:
 Syllabus / assignments:
 - Annie Swafford, [Sherlock Holmes topic modeling assignment](https://sherlockholmeslondondh.wordpress.com/2015/03/23/topic-modeling-assignment/)
 - [Text Analysis for Historians](http://lincolnmullen.com/courses/text-analysis.2016/)
+
+Evan's [text analysis](https://evanwill.github.io/_drafts/notes/text-analysis.html) and [data viz](https://evanwill.github.io/_drafts/notes/viz-notes.html) notes.
