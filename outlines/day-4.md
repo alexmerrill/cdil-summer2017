@@ -7,6 +7,12 @@
 Jeffrey M. Binder, "Alien Reading: Text Mining, Language Standardization, and the Humanities" in *Debates in the Digital Humanities* (2016),
 http://dhdebates.gc.cuny.edu/debates/text/69
 
+Ted Underwood, ["Seven Ways Humanists are Using Computers to Understand Text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) (2015). (overview of types of computational analysis)
+
+Ted Underwood, [paceofchange](https://github.com/tedunderwood/paceofchange) (2015). (GitHub repository sharing code to reproduce analysis reported in his article ["How Quickly Do Literary Standards Change?"](https://figshare.com/articles/How_Quickly_Do_Literary_Standards_Change_/1418394))
+
+Ted Underwood, ["The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us"](http://hdl.handle.net/2142/49323), in *New Literary History* (2014).
+
 Stanford Literary Lab [Pamphlets](http://litlab.stanford.edu/pamphlets/). (ongoing series of publications relating to "computational criticism")
 
 Tools directories:
@@ -25,8 +31,4 @@ Textbooks:
 Syllabus / assignments:
 - Annie Swafford, [Sherlock Holmes topic modeling assignment](https://sherlockholmeslondondh.wordpress.com/2015/03/23/topic-modeling-assignment/)
 - [Text Analysis for Historians](http://lincolnmullen.com/courses/text-analysis.2016/)
-- Ted Underwood, [Seven Ways Humanists are Using Computers to Understand Text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/), 2015
-- Ted Underwood, [How Quickly Do Literary Standards Change](https://tedunderwood.com/2015/05/18/how-quickly-do-literary-standards-change/), 2015
-- Ted Underwood, [Pace of Change - GITHUB](https://github.com/tedunderwood/paceofchange), 2015
-- Ted Underwood, [The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us](https://www.ideals.illinois.edu/handle/2142/49323), 2015
 - Evan's [text analysis](https://evanwill.github.io/_drafts/notes/text-analysis.html) and [data viz](https://evanwill.github.io/_drafts/notes/viz-notes.html) notes.
