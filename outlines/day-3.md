@@ -8,11 +8,17 @@
 
 scanning, excel, google sheets
 
+CCC Images and Documents
+5 Stations, 4 images and one feed (move in and out)
+
+
 ## 3. Data Wrangling: OpenRefine
 
-## 4. Visualization 
+## 4. Visualization
 
-fusion tables demo, timelinejs demo
+fusion tables demo -  White Pine King of Many Waters (link to csv)
+
+timelinejs demo - Bunker Hill (link to csv)
 
 > # Lunch Break
 
