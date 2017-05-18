@@ -10,17 +10,24 @@ barriers, pedagogy
 
 [Victorian Web](http://www.victorianweb.org/misc/vwintro.html) (since 1987, pre-internet) (pre-internet project)
 
-Omeka
-WordPress
-GH-Pages
+- Omeka (popular CMS for exhibits and teaching)
+- WordPress (most common CMS in the world. Powerful web-based admin interface, user authentication, media management)
+- GH-Pages (simple, free static hosting. higher learning curve)
 
 > # Lunch Break
 
 ## 3. Profile Site Project
 
-GH-pages
-WordPress on Reclaim
+- GH-pages
+- WordPress on Reclaim
 
+## 4. Web Archives
+
+The web is fragile and transient which has significant implications for scholarship. 
+Web archives are raw material for research and best practice for capturing important resources for the future.
+
+- [Internet Archive](https://archive.org/)
+- [perma.cc](https://perma.cc/)
 
 # Resources
 
@@ -35,17 +42,13 @@ Syllabi / courses:
 - Jennifer Gonzalez, [To Boost Higher-Order Thinking, Try Curation](https://www.cultofpedagogy.com/curation/), *Cult of Pedagogy* (2017).
 
 Textbooks:
-- Daniel J Cohen and Roy Rosenzweig, *Digital History: A Guide to Gathering, Preserving, and Presenting the Past on the Web*, [web](http://chnm.gmu.edu/digitalhistory/)
-- *Debates in the Digital Humanities* ed. Lauren F. Klein and Matthew K Gold (2016), http://dhdebates.gc.cuny.edu/
-- T. Mills Kelly, *Teaching History in the Digital Age*, [web](http://dx.doi.org/10.3998/dh.12146032.0001.001)
-- University of Michigan [Digital Humanities series](http://www.digitalculture.org/books/book-series/digital-humanities-series/) (free ebooks)
+- Daniel J Cohen and Roy Rosenzweig, [*Digital History: A Guide to Gathering, Preserving, and Presenting the Past on the Web*](http://chnm.gmu.edu/digitalhistory/) (University of Pennsylvania Press, 2005).
+- [*Debates in the Digital Humanities*](http://dhdebates.gc.cuny.edu/) ed. Lauren F. Klein and Matthew K Gold (University Of Minnesota Press, 2016).
+- T. Mills Kelly, [*Teaching History in the Digital Age*](http://dx.doi.org/10.3998/dh.12146032.0001.001) (University of Michigan Press, 2013).
+- University of Michigan [Digital Humanities series](http://www.digitalculture.org/books/book-series/digital-humanities-series/) (open access ebooks)
 
 Web annotation:
-- [Hypothes.is](https://hypothes.is/) annotation layer, add to site or WP, [educators guide](https://hypothes.is/education/)
-
-Web archives:
-- [Internet Archive](https://archive.org/)
-- [perma.cc](https://perma.cc/)
+- [Hypothes.is](https://hypothes.is/) annotation layer, add to site or WP plugin, [educators guide](https://hypothes.is/education/)
 
 Other resources:
 - Miriam Posner, [DH101: A Highly Opinionated Resource Guide](https://docs.google.com/document/d/1Z-14hgZPMIiAzT6vx1mVg5l60zkRVU9EHgZgK9HHdU4/edit)

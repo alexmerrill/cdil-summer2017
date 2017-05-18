@@ -28,9 +28,9 @@ timelinejs demo - Bunker Hill (link to csv)
 
 # Resources
 
-Katie Rawson and Trevor Muñoz, [Against Cleaning](http://curatingmenus.org/articles/against-cleaning/), *Curating Menus* (2016).
+Katie Rawson and Trevor Muñoz, ["Against Cleaning"](http://curatingmenus.org/articles/against-cleaning/), *Curating Menus* (2016). (discussion about lack of reflection about the practice of data cleaning, despite it being the largest part of any project)
 
-Fred Gibbs and Trevor Owens, [The Hermeneutics of Data and Historical Writing](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:7/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#7.3)
+Fred Gibbs and Trevor Owens, ["The Hermeneutics of Data and Historical Writing"](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:7/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#7.3), in *Writing History in the Digital Age* (2013).
 
 Scott B. Weingart, ["Demystifying Networks"](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), *JDH* 1, 1 (2011).
 
