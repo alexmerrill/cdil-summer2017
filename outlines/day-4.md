@@ -1,6 +1,51 @@
 # Day Four: Text as Data
 
-> Text analysis
+> Text analysis, digital reading, computation.
+
+## 1. Reflection + discussion
+
+## 2. Unstructured text to data
+
+OpenRefine Sonnets project
+
+## 3. Text and Machine Learning
+
+OpenRefine sentiment analysis project
+
+> # Lunch Break
+
+## 4. Text / Data Visualization
+
+[VPOD PoemChoice](https://uidaholib.github.io/poemchoice/)
+
+statistics, visualizations, NLP
+
+A single text:
+- [Juxta](http://juxtacommons.org/) (visual collation, example classroom [assignments](http://www.juxtasoftware.org/using-juxta-in-the-classroom-scholars-lab-presentation/), [Frankenstein editions assignment](https://mla.hcommons.org/?get_group_doc=387/1420320643-Bninski.notesforMLACommons.pdf))
+- Jason Davies [WordTree](https://www.jasondavies.com/wordtree/) (visual concordance, D3 web app, [academic explanation](http://hint.fm/projects/wordtree/))
+
+A corpus:
+- [AntConc](http://www.laurenceanthony.net/software/antconc/) (lots of software and publications from Laurence Anthony)
+- [Voyant](http://voyant-tools.org/) ([Voyant Docs](http://docs.voyant-tools.org/))
+- Jigsaw [desktop app](http://www.cc.gatech.edu/gvu/ii/jigsaw/) and [WebJigsaw](http://www.iilabgt.org/webjigsaw) ("Visual Analytics for Exploring and Understanding Document Collections")
+
+Text Big Data: 
+> Think about Big Data 3 V’s (volume, variety and velocity).
+- Hathi Trust [Research Center Portal](https://sharc.hathitrust.org/) (big text data)
+- N-Grams: [Bookworm](http://bookworm.culturomics.org/) or [Google Books Ngram Viewer](https://books.google.com/ngrams) (see [TED talk](https://www.ted.com/talks/what_we_learned_from_5_million_books?language=en))
+
+network graphs
+
+Natural Language Processing / Machine Learning:
+- Python [NLTK](http://www.nltk.org/)
+- [MALLET](http://mallet.cs.umass.edu/index.php)
+- [Stanford NLP Group](http://nlp.stanford.edu/software/) (a library of Java apps, e.g. [named entity tagging demo](http://nlp.stanford.edu:8080/ner/)
+- [Open Calais](http://www.opencalais.com/) (API trained on web and newspaper text)
+- Watson [Natural Language Understanding](https://www.ibm.com/watson/developercloud/natural-language-understanding.html) (API trained on web content)
+
+Programming as a method of inquiry
+
+> distant versus close reading. digital editing and annotating, versus computation.
 
 # Resources
 
@@ -14,6 +59,8 @@ Ted Underwood, [paceofchange](https://github.com/tedunderwood/paceofchange) (201
 Ted Underwood, ["The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us"](http://hdl.handle.net/2142/49323), in *New Literary History* (2014).
 
 Stanford Literary Lab [Pamphlets](http://litlab.stanford.edu/pamphlets/). (ongoing series of publications relating to "computational criticism")
+
+[Programming Historian](http://programminghistorian.org/) tutorials.
 
 Tools directories:
 - [DiRT Directory](http://dirtdirectory.org/)
@@ -32,3 +79,6 @@ Syllabus / assignments:
 - Annie Swafford, [Sherlock Holmes topic modeling assignment](https://sherlockholmeslondondh.wordpress.com/2015/03/23/topic-modeling-assignment/)
 - [Text Analysis for Historians](http://lincolnmullen.com/courses/text-analysis.2016/)
 - Evan's [text analysis](https://evanwill.github.io/_drafts/notes/text-analysis.html) and [data viz](https://evanwill.github.io/_drafts/notes/viz-notes.html) notes.
+
+Projects: 
+- Jonathan Reeve, [Git-Lit](http://jonreeve.com/2015/09/introducing-git-lit/).
