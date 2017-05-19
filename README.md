@@ -4,6 +4,8 @@ University of Idaho’s [Center for Digital Inquiry and Learning](http://digital
 
 ## Schedule
 
+[Day Zero: Prep](outlines/day-0.md)
+
 [Day One: Introductions and Setup](outlines/day-1.md)
 
 [Day Two: Web Publishing](outlines/day-2.md)
