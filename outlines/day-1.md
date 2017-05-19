@@ -64,28 +64,39 @@ Demo IP addresses:
 
 Check [Get Git!](https://uidaholib.github.io/get-git/)
 
+Create repository for example assignment.
+
 ## 6. Write in plain text: Markdown
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 
 [GitHub markdown flavor](https://help.github.com/articles/basic-writing-and-formatting-syntax/) can be used any where on GitHub.
 
-Create a file in your test repository and give it file name ending with .md (`test.md`). 
+Create a file in your repository and give it file name ending with .md (`test.md`). 
 Paste in this Markdown code:
 
 ```
-# Heading one
+# Heading One
 
 Any line beginning with # will become a heading. 
 Leave a blank line between headings and paragraphs.
 Lines with out a blank line between them will be joined.
 
-## Heading two
+## Heading Two
 
 Font can be *Italic* or **Bold**.
 Code can be highlighted with `backticks`.
-Links look like this [GitHub Help](https://help.github.com/).
+Or you can use three backticks to make a code block, that will be unformatted text:
 
-Images are like links with a exclamation in front:
+```
+code(){
+    block;
+}
+```
+
+### Heading Three 
+
+Links look like this [GitHub Help](https://help.github.com/).
+Images are similar to links, with a exclamation in front and alt text in the square brackets:
 
 ![Charles Joseph Minard’s Map (1869)](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
 
@@ -108,6 +119,8 @@ A horizontal divide is just some dashes:
 ```
 
 Check out this [GitHub Markdown tutorial](https://guides.github.com/features/mastering-markdown/) for more info.
+
+Create a basic outline of your assignment idea in Markdown.
 
 ## 7. Discussion
 

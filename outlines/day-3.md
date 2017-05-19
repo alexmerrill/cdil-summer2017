@@ -1,4 +1,4 @@
-# Day Three: Data
+# Day Three: Creating and Using Data
 
 > Digitization, data wrangling, geospatial and time visualization.
 

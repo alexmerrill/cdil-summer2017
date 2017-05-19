@@ -69,7 +69,7 @@ Tools directories:
 
 Textbooks:
 - Brandon Walsh and Sarah Horowitz, [Introduction to Text Analysis: A Coursebook](http://walshbr.com/textanalysiscoursebook/) (2016). (Open textbook, Jekyll project hosted on gh-pages, [repo](https://github.com/walshbr/textanalysiscoursebook))
-- Steven Bird, Ewan Klein, and Edward Loper, [Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit](http://www.nltk.org/book/). (known as the NLTK Book, good intro to using Python with large sample corpora)
+- Steven Bird, Ewan Klein, and Edward Loper, [Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit](http://www.nltk.org/book/). (known as the NLTK Book, good intro to using Python and textual analysis concepts, with large sample corpora)
 - Stéfan Sinclair & Geoffrey Rockwell, [The Art of Literary Text Analysis](https://github.com/sgsinclair/alta/blob/master/ipynb/ArtOfLiteraryTextAnalysis.ipynb) (2016). (a Python Jupyter notebook based open text)
 - Matthew Jockers, *Text Analysis with R for Students of Literature* (2014).
 - Julia Silge and David Robinson, [Tidy Text Mining in R](http://tidytextmining.com/) (2017). ([Bookdown](https://bookdown.org/) project written in RMarkdown)
