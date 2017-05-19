@@ -4,13 +4,13 @@ Day: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.m
 
 > Digitization, data wrangling, geospatial and time visualization.
 
-## 1. reflection / discussion
+## 1. Reflection / discussion
 
 ## 2. Digitization and Metadata Creation
 
 scanning, excel, google sheets
 
-CCC Images and Documents
+CCC Images and Documents.
 5 Stations, 4 images and one feed (move in and out)
 
 
@@ -25,6 +25,10 @@ timelinejs demo - Bunker Hill (link to csv)
 > # Lunch Break
 
 ## 5. ArcGIS StoryMap
+
+Geospatial visualization
+- Alex Wellerstein, [Nukemap](http://nuclearsecrecy.com/nukemap/)
+- [The Map Room](http://www.lib.uidaho.edu/digital/maps/)
 
 ### Other options
 
@@ -42,7 +46,7 @@ Tutorials:
 - Miriam Posner [Cytoscape tutorials](https://github.com/miriamposner/cytoscape_tutorials) (2016), DOI:10.5281/zenodo.56245. (network graph classroom tutorials shared on github)
 
 Textbooks:
-- Trina Chiasson and Dyanna Gregory, [*Data + Design*](https://infoactive.co/data-design) (Reynolds Journalism Institute: 2014).
+- Trina Chiasson and Dyanna Gregory, [*Data + Design*](https://infoactive.co/data-design) (Reynolds Journalism Institute, 2014).
 
 Web based tools:
 - [TimelineJS](https://timeline.knightlab.com/) (simple timeline connected to Google Sheets)

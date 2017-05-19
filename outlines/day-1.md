@@ -2,23 +2,24 @@
 
 Day: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.md) | [5](day-5.md)
 
-> Discussion: prepping the DH toolkit, barriers
+> Prepping the DH toolkit, barriers
 
 ## 1. Setup and Introductions
 
 ## 2. Physical Computing and Intro to Code
 
-DH requires computing. 
-How can we learn about the basics of computers and code?
-How can we examine our relationship with the digital world?
-Physical computing / minimal computing, "critical making"
+DH assumes computing. 
+How can we learn about the computers and code that underpin our research and communication?
+How can we examine our relationship with the digital world and the cultural assumptions embedded in it?
+[Physical computing](http://maker.uvic.ca/physcomp/) / minimal computing, "critical making".
 
 Pedagogical benefits: active, project based learning, "media computing"; digital literacy; computational thinking
 
-[Hello-Arduino](https://evanwill.github.io/hello-arduino/)
+See [Hello-Arduino](https://evanwill.github.io/hello-arduino/)
+
 - What is a computer? Compare microcontroller ([Arduino](https://www.arduino.cc/)), minicomputer ([Raspberry Pi](https://www.raspberrypi.org/)), desktop computer, vs. server.
 - What is code? Plain text, text editor, IDE.
-- Explore the concept of [free](https://www.gnu.org/philosophy/free-sw.en.html) and open source software and hardware
+- Explore the concept of [free](https://www.gnu.org/philosophy/free-sw.en.html) and open source software and hardware.
 
 ## 3. Computer Setup
 
@@ -35,14 +36,13 @@ You need a good text editor!
 ### Git and GitHub prep
 
 Create a [GitHub account](https://github.com/join).
-If you want this to be a professional account, think about the user name you choose. 
-It will be on your profile and web URLs.
+Think carefully about the user name you choose. It will be on your profile, web URLs, and associated with your work.
 
-Install Git. See [Get Git prep](https://uidaholib.github.io/get-git/0prep.html).
+Install Git. See [Get-Git prep](https://uidaholib.github.io/get-git/0prep.html).
 
 ### OpenRefine install
 
-See [clean-your-data](https://evanwill.github.io/clean-your-data/3-start.html).
+See [clean-your-data start](https://evanwill.github.io/clean-your-data/3-start.html) page.
 
 > # Lunch break
 
@@ -64,7 +64,9 @@ Demo IP addresses:
 - `nslookup www.lib.uidaho.edu` 
 - traceroute / tracert / tracepath `tracepath www.google.com`
 
-### Join the web: Set up Reclaim hosting 
+### Set up Reclaim hosting 
+
+- domain name considerations
 
 ## 5. Version Control: Git/GitHub
 

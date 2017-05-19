@@ -4,7 +4,7 @@ Day: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.m
 
 > Text analysis, digital reading, computation.
 
-## 1. Reflection + discussion
+## 1. Reflection / discussion
 
 ## 2. Unstructured text to data
 
@@ -40,10 +40,10 @@ network graphs
 
 Natural Language Processing / Machine Learning:
 - Python [NLTK](http://www.nltk.org/)
-- [MALLET](http://mallet.cs.umass.edu/index.php)
+- [MALLET](http://mallet.cs.umass.edu/index.php) topic modeling
 - [Stanford NLP Group](http://nlp.stanford.edu/software/) (a library of Java apps, e.g. [named entity tagging demo](http://nlp.stanford.edu:8080/ner/)
-- [Open Calais](http://www.opencalais.com/) (API trained on web and newspaper text)
-- Watson [Natural Language Understanding](https://www.ibm.com/watson/developercloud/natural-language-understanding.html) (API trained on web content)
+- [Open Calais](http://www.opencalais.com/) (NLP API trained on web and newspaper text)
+- Watson [Natural Language Understanding](https://www.ibm.com/watson/developercloud/natural-language-understanding.html) (NLP API trained on web content)
 
 Programming as a method of inquiry
 
@@ -51,8 +51,7 @@ Programming as a method of inquiry
 
 # Resources
 
-Jeffrey M. Binder, "Alien Reading: Text Mining, Language Standardization, and the Humanities" in *Debates in the Digital Humanities* (2016),
-http://dhdebates.gc.cuny.edu/debates/text/69
+Jeffrey M. Binder, ["Alien Reading: Text Mining, Language Standardization, and the Humanities"](http://dhdebates.gc.cuny.edu/debates/text/69) in *Debates in the Digital Humanities* (2016).
 
 Ted Underwood, ["Seven Ways Humanists are Using Computers to Understand Text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) (2015). (overview of types of computational analysis)
 
