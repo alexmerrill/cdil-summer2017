@@ -6,13 +6,18 @@ Day: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.m
 
 ## 1. Reflection / discussion
 
+[Generous interfaces](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html) and the [stuff of digital collections](http://journalofdigitalhumanities.org/1-1/its-all-about-the-stuff-by-tim-sherratt/)
+
 ## 2. Digitization and Metadata Creation
 
-scanning, excel, google sheets
+We build a small digital collection together!
 
-CCC Images and Documents.
-5 Stations, 4 images and one feed (move in and out)
+Scanning to archival standards, recording metadata using best practices and controlled vocabularies.
+Software: Photoshop, Acrobat, VueScan, Google Sheets
 
+Colleciton: [Civilian Conservation Corps in Idaho](http://digital.lib.uidaho.edu/cdm/search/collection/cccidaho/cosuppress/) - Images and Documents from Pat Hart and Ivar Nelson's collecion.
+
+4 Stations - 3 image scanning and one feed scanning
 
 ## 3. Data Wrangling: OpenRefine
 
@@ -25,6 +30,10 @@ timelinejs demo - Bunker Hill (link to csv)
 > # Lunch Break
 
 ## 5. ArcGIS StoryMap
+
+[ArcGIS StoryMap] (https://storymaps.arcgis.com/en/)
+
+Telling a multi-modal story with images, texts, maps, videos
 
 Geospatial visualization
 - Alex Wellerstein, [Nukemap](http://nuclearsecrecy.com/nukemap/)
