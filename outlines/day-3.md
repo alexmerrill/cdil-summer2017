@@ -1,5 +1,7 @@
 # Day Three: Creating and Using Data
 
+Day: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.md) | [5](day-5.md)
+
 > Digitization, data wrangling, geospatial and time visualization.
 
 ## 1. reflection / discussion

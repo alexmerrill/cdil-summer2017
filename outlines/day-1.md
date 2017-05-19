@@ -1,5 +1,7 @@
 # Day One: Introductions and Setup
 
+Day: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.md) | [5](day-5.md)
+
 > Discussion: prepping the DH toolkit, barriers
 
 ## 1. Setup and Introductions
@@ -26,8 +28,8 @@ All code is [plain text](https://en.wikipedia.org/wiki/Plain_text).
 The web is plain text.
 You need a good text editor!
 
-- [Notepad++](https://notepad-plus-plus.org/) (windows)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Notepad++](https://notepad-plus-plus.org/) (windows)
 - [Atom](https://atom.io/)
 
 ### Git and GitHub prep
@@ -37,6 +39,10 @@ If you want this to be a professional account, think about the user name you cho
 It will be on your profile and web URLs.
 
 Install Git. See [Get Git prep](https://uidaholib.github.io/get-git/0prep.html).
+
+### OpenRefine install
+
+See [clean-your-data](https://evanwill.github.io/clean-your-data/3-start.html).
 
 > # Lunch break
 
