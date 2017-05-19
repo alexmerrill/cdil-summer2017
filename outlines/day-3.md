@@ -19,25 +19,26 @@ Colleciton: [Civilian Conservation Corps in Idaho](http://digital.lib.uidaho.edu
 
 4 Stations - 3 image scanning and one feed scanning
 
-## 3. Data Wrangling: OpenRefine
+## 3. Visualization
 
-## 4. Visualization
+Google Fusion Tables for Mapping -  White Pine King of Many Waters (link to csv)
 
-fusion tables demo -  White Pine King of Many Waters (link to csv)
+    Geospatial visualization
+        - Alex Wellerstein, [Nukemap](http://nuclearsecrecy.com/nukemap/)
+        - [The Map Room](http://www.lib.uidaho.edu/digital/maps/)
 
-timelinejs demo - Bunker Hill (link to csv)
+Timelinejs - Bunker Hill (link to csv)
 
 > # Lunch Break
 
-## 5. ArcGIS StoryMap
+## 4. ArcGIS StoryMap
 
 [ArcGIS StoryMap] (https://storymaps.arcgis.com/en/)
 
-Telling a multi-modal story with images, texts, maps, videos
+Telling a multi-modal story with a StoryMap
+    Using materials from today or from the web, build a StoryMap. Reflect on the process. 
 
-Geospatial visualization
-- Alex Wellerstein, [Nukemap](http://nuclearsecrecy.com/nukemap/)
-- [The Map Room](http://www.lib.uidaho.edu/digital/maps/)
+## 5. Project work and discussion
 
 ### Other options
 

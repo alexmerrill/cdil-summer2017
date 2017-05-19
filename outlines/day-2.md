@@ -6,7 +6,9 @@ Day: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.m
 
 ## 1. Reflection / discussion
 
-barriers, pedagogy
+Reflect on yesterday: Technological barriers as learning opportunities. 
+
+Discusion: Digital Pedagogy Readings - [DigitalPedagogyReadings.pdf](https://drive.google.com/file/d/0B4VwEx0I-KYAR2VIaFMxdHRfMnc/view?usp=sharing)
 
 ## 2. Platform Introductions
 
@@ -18,12 +20,13 @@ barriers, pedagogy
 
 > # Lunch Break
 
-## 3. Profile Site Project
+## 3. Build a Profile Site 
 
+Choose your platform
 - GH-pages
 - WordPress on Reclaim
 
-## 4. Web Archives
+## 4. Web Archives (if time)
 
 The web is fragile and transient which has significant implications for scholarship. 
 Web archives are raw material for research and best practice for capturing important resources for the future.
@@ -33,6 +36,8 @@ Web archives are raw material for research and best practice for capturing impor
 - [LOC web archive collections](https://www.loc.gov/websites/collections/)
 - Incredible LOC [Web Archiving video](https://youtu.be/T0943YkhLWU)
 - [IIPC](http://www.netpreserve.org/web-archiving/overview)
+
+## 5. Personal Project Work 
 
 # Resources
 

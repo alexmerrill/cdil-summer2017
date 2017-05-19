@@ -49,6 +49,8 @@ Programming as a method of inquiry
 
 > distant versus close reading. digital editing and annotating, versus computation.
 
+## 5. Project Work and Discussion
+
 # Resources
 
 Jeffrey M. Binder, ["Alien Reading: Text Mining, Language Standardization, and the Humanities"](http://dhdebates.gc.cuny.edu/debates/text/69) in *Debates in the Digital Humanities* (2016).
