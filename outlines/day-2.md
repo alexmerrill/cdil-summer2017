@@ -10,6 +10,8 @@ Reflect on yesterday: Technological barriers as learning opportunities.
 
 Discusion: Digital Pedagogy Readings - [DigitalPedagogyReadings.pdf](https://drive.google.com/file/d/0B4VwEx0I-KYAR2VIaFMxdHRfMnc/view?usp=sharing)
 
+Also - [Maura Ives Afterword] (https://ida.lib.uidaho.edu:2337/article/550525 )to [CEA Critic Special Issue on Digital Humanities Pedagogy](https://ida.lib.uidaho.edu:2337/issue/30408)
+
 ## 2. Platform Introductions
 
 [Victorian Web](http://www.victorianweb.org/misc/vwintro.html) (since 1987, pre-internet)
