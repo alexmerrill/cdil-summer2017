@@ -31,7 +31,7 @@ Choose your platform
 The web is fragile and transient which has significant implications for scholarship. 
 Web archives are raw material for research and best practice for capturing important resources for the future.
 
-- [Internet Archive](https://archive.org/) (huge collection useful for retrieving broken links, browsing history, and archiving current sites)
+- [Internet Archive](https://archive.org/) (huge collection useful for retrieving broken links, browsing history, and archiving current sites. Demo: Tweed Museum ~2003, http://www.d.umn.edu/tma/)
 - [perma.cc](https://perma.cc/) (free service useful for citations)
 - [LOC web archive collections](https://www.loc.gov/websites/collections/)
 - Incredible LOC [Web Archiving video](https://youtu.be/T0943YkhLWU)

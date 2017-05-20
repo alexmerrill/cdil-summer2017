@@ -21,7 +21,7 @@ University of Idaho’s [Center for Digital Inquiry and Learning](http://digital
 [UI News release](https://www.uidaho.edu/news/news-articles/news-releases/2017-february/020617-cdil)
 
 Cohort:
-- Denise Bennett
+- [Denise Bennett](https://github.com/denisebennett)
 - Adam Sowards
 - Matthew Fox-Amato
 - Kristine Levan
