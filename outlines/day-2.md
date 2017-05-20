@@ -44,14 +44,15 @@ Web archives are raw material for research and best practice for capturing impor
 DHSI 2016 [DH Pedagogy course packet](http://dhsi.org/content/2016Curriculum/11.%20Digital%20Humanities%20Pedagogy-%20Integration%20in%20the%20Curriculum%20(2016).pdf)
 
 Syllabi / courses / assignments:
-- Miriam Posner [DH101](http://miriamposner.com/dh101f15/) 2015.
-- Jeffrey McClurken [Adventures in Digital History](http://courses.mcclurken.org/adh/syllabus/) 2016.
-- Shawn Graham [Crafting Digital History](http://site.craftingdigitalhistory.ca/) 2016. (github, reclaim, hypothes.is, slack)
+- Miriam Posner, DH101 [2015](http://miriamposner.com/dh101f15/), [2016](http://miriamposner.com/classes/dh101f16/).
+- Jeffrey McClurken, [Adventures in Digital History](http://courses.mcclurken.org/adh/syllabus/) 2016.
+- Shawn Graham, [Crafting Digital History](http://site.craftingdigitalhistory.ca/) 2016. (github, reclaim, hypothes.is, slack)
 - Johanna Drucker, David Kim, Iman Salehian, and Anthony Bushong, [Introduction to Digital Humanities: Concepts, Methods, and Tutorial for Students and Instructors](https://archive.org/details/IntroductionToDigitalHumanities) (2015).
-- Lincoln Mullen [classes](http://lincolnmullen.com/#classes)
+- Lincoln Mullen, [classes](http://lincolnmullen.com/#classes)
 - [Bucknell DH Course Websites](http://dhpedagogy.blogs.bucknell.edu/bucknell-dh-course-websites/)
 - Jennifer Gonzalez, [To Boost Higher-Order Thinking, Try Curation](https://www.cultofpedagogy.com/curation/), *Cult of Pedagogy* (2017).
 - Alston Cobourn, [Spreading Awareness of Digital Preservation and Copyright via Omeka-based Projects](https://jitp.commons.gc.cuny.edu/spreading-awareness-of-digital-preservation-and-copyright-via-omeka-based-projects/), *The Journal of Interactive Technology and Pedagogy* (2016).
+- [ABC Books](http://etc.princeton.edu/abcbooks/) (students enhance the archive metadata and use the data for text analysis)
 - ["Part 3: Practice What You Teach (and Teach What You Practice)"](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:6/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1) in *Writing History in the Digital Age* (2013).
 - Quinn Dombrowski, [*Drupal for Humanists*](http://drupal.forhumanists.org/).
 

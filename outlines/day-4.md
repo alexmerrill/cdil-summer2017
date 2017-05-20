@@ -28,7 +28,7 @@ A single text:
 
 A corpus:
 - [AntConc](http://www.laurenceanthony.net/software/antconc/) (lots of software and publications from Laurence Anthony)
-- [Voyant](http://voyant-tools.org/) ([Voyant Docs](http://docs.voyant-tools.org/))
+- [Voyant](http://voyant-tools.org/) ([Help](http://voyant-tools.org/docs/#!/guide/start), [Voyant Docs](http://docs.voyant-tools.org/), and [VoyantServer](https://github.com/sgsinclair/VoyantServer) for offline use)
 - Jigsaw [desktop app](http://www.cc.gatech.edu/gvu/ii/jigsaw/) and [WebJigsaw](http://www.iilabgt.org/webjigsaw) ("Visual Analytics for Exploring and Understanding Document Collections")
 
 Text Big Data: 
@@ -36,12 +36,11 @@ Text Big Data:
 - Hathi Trust [Research Center Portal](https://sharc.hathitrust.org/) (big text data)
 - N-Grams: [Bookworm](http://bookworm.culturomics.org/) or [Google Books Ngram Viewer](https://books.google.com/ngrams) (see [TED talk](https://www.ted.com/talks/what_we_learned_from_5_million_books?language=en))
 
-network graphs
-
 Natural Language Processing / Machine Learning:
+- Typically classification tasks: Entity recognition, POS tagging, topic modeling, sentiment, summary.
 - Python [NLTK](http://www.nltk.org/)
 - [MALLET](http://mallet.cs.umass.edu/index.php) topic modeling
-- [Stanford NLP Group](http://nlp.stanford.edu/software/) (a library of Java apps, e.g. [named entity tagging demo](http://nlp.stanford.edu:8080/ner/)
+- [Stanford NLP Group](http://nlp.stanford.edu/software/) (a library of Java apps, e.g. [named entity tagging demo](http://nlp.stanford.edu:8080/ner/), with academic papers explaining their use)
 - [Open Calais](http://www.opencalais.com/) (NLP API trained on web and newspaper text)
 - Watson [Natural Language Understanding](https://www.ibm.com/watson/developercloud/natural-language-understanding.html) (NLP API trained on web content)
 
@@ -67,7 +66,7 @@ Stanford Literary Lab [Pamphlets](http://litlab.stanford.edu/pamphlets/). (ongoi
 
 Tools directories:
 - [DiRT Directory](http://dirtdirectory.org/)
-- [TAPoR 3](http://tapor.ca/home)
+- [TAPoR 3](http://tapor.ca/home) (or try [here](http://tapor-test.artsrn.ualberta.ca/home))
 - [Keshif VisTools](https://keshif.me/demo/VisTools)
 
 Textbooks:
@@ -79,9 +78,10 @@ Textbooks:
 - For more see Scott B. Weingart, [Teaching Yourself to Code in DH](http://scottbot.net/teaching-yourself-to-code-in-dh/).
 
 Syllabus / assignments:
-- Annie Swafford, [Sherlock Holmes topic modeling assignment](https://sherlockholmeslondondh.wordpress.com/2015/03/23/topic-modeling-assignment/)
-- [Text Analysis for Historians](http://lincolnmullen.com/courses/text-analysis.2016/)
+- Annie Swafford, [Sherlock Holmes topic modeling assignment](https://sherlockholmeslondondh.wordpress.com/2015/03/23/topic-modeling-assignment/) (2015).
+- Lincoln Mullen, [Text Analysis for Historians](http://lincolnmullen.com/courses/text-analysis.2016/) (2016).
+- Beth Platte, [Text analysis using Voyant Tools](http://blogs.reed.edu/ed-tech/2017/03/text-analysis-using-voyant-tools/) (2017).
+- Pedagogy-Toolkit [Voyant Tools](http://pedagogy-toolkit.org/tools/VoyantTools.html) assignments.
+- Max Kemman, [A-Republic-of-Emails](https://github.com/C2DH/A-Republic-of-Emails) (2016). (GitHub repo assignment to analyze wikileaks email dump)
+- [DataBasic](https://www.databasic.io/en/). (slick, simple web apps with lessons to introduce text data concepts)
 - Evan's [text analysis](https://evanwill.github.io/_drafts/notes/text-analysis.html) and [data viz](https://evanwill.github.io/_drafts/notes/viz-notes.html) notes.
-
-Projects: 
-- Jonathan Reeve, [Git-Lit](http://jonreeve.com/2015/09/introducing-git-lit/).

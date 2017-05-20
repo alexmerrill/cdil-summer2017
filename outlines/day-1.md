@@ -93,13 +93,7 @@ Lines with out a blank line between them will be joined.
 
 Font can be *Italic* or **Bold**.
 Code can be highlighted with `backticks`.
-Or you can use three backticks to make a code block, that will be unformatted text:
-
-```
-code(){
-    block;
-}
-```
+Or you can use three backticks to make a code block that will be unformatted text.
 
 ### Heading Three 
 
