@@ -11,15 +11,15 @@ Day: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.m
 DH assumes computing. 
 How can we learn about the computers and code that underpin our research and communication?
 How can we examine our relationship with the digital world and the cultural assumptions embedded in it?
-[Physical computing](http://maker.uvic.ca/physcomp/) / minimal computing, "critical making".
 
-Pedagogical benefits: active, project based learning, "media computing"; digital literacy; computational thinking
+[Physical computing](http://maker.uvic.ca/physcomp/), [minimal computing](http://go-dh.github.io/mincomp/thoughts/), [critical making](http://conceptlab.com/criticalmaking/).
 
 See [Hello-Arduino](https://evanwill.github.io/hello-arduino/)
 
 - What is a computer? Compare microcontroller ([Arduino](https://www.arduino.cc/)), minicomputer ([Raspberry Pi](https://www.raspberrypi.org/)), desktop computer, vs. server.
 - What is code? Plain text, text editor, IDE.
 - Explore the concept of [free](https://www.gnu.org/philosophy/free-sw.en.html) and open source software and hardware.
+- Pedagogical benefits: active, project based learning, "media computing"; digital literacy; computational thinking.
 
 ## 3. Computer Setup
 
@@ -50,8 +50,6 @@ See [clean-your-data start](https://evanwill.github.io/clean-your-data/3-start.h
 
 Idealistic Canadian video: [How Does the Internet Work ?](https://youtu.be/i5oe63pOhLI)
 
-<!-- enbed <iframe width="560" height="315" src="https://www.youtube.com/embed/i5oe63pOhLI" frameborder="0" allowfullscreen></iframe> -->
-
 A network is two or more computers connected.
 The internet is network of networks.
 
@@ -79,7 +77,7 @@ Create repository for example assignment.
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 
 [GitHub markdown flavor](https://help.github.com/articles/basic-writing-and-formatting-syntax/) can be used any where on GitHub.
 
-Create a file in your repository and give it file name ending with .md (`test.md`). 
+Create a file in your test repository and give it file name ending with .md (`test.md`). 
 Paste in this Markdown code:
 
 ```
@@ -120,7 +118,7 @@ A horizontal divide is just some dashes:
 ----
 ```
 
-Check out this [GitHub Markdown tutorial](https://guides.github.com/features/mastering-markdown/) for more info.
+Check out this [GitHub Markdown tutorial](https://guides.github.com/features/mastering-markdown/) for more details.
 
 Create a basic outline of your assignment idea in Markdown.
 
@@ -135,7 +133,7 @@ Create a basic outline of your assignment idea in Markdown.
 
 DH Making:
 - [Jentery Sayers](http://www.jenterysayers.com/) and [MLab](http://maker.uvic.ca/) at UVic
-- Matt Ratto, "Critical Making: Conceptual and Material Studies in Technology and Social Life", *Information Society* 27 (2011) DOI:10.1080/01972243.2011.583819
+- Matt Ratto, "Critical Making: Conceptual and Material Studies in Technology and Social Life", *Information Society* 27 (2011). DOI:[10.1080/01972243.2011.583819](http://dx.doi.org/10.1080/01972243.2011.583819)
 - Kazushi Ohya, ["Programming with Arduino for Digital Humanities"](http://journalofdigitalhumanities.org/2-3/programming-with-arduino-for-digital-humanities/), *JDH* 2, 3 (2013).
 
 Teaching code:
@@ -146,7 +144,7 @@ Teaching code:
 GitHub in Education:
 - Kris Shaffer, ["Push, Pull, Fork: GitHub for Academics"](http://www.digitalpedagogylab.com/hybridped/push-pull-fork-github-for-academics/), *Digital Pedagogy Lab* (2013).
 - Alexey Zagalsky, ["Why you should use GitHub: Lessons for the classroom and newsroom"](http://www.storybench.org/use-github-lessons-classroom-newsroom/), *Storybench* (2015).
-- Evan's [Git for Collaboration](https://evanwill.github.io/_drafts/notes/git-collaboration.html), [Get Git](https://uidaholib.github.io/get-git/), and [go-go gh-pages](https://evanwill.github.io/go-go-ghpages/). (happy to do these workshops with a class)
+- Evan's [Git for Collaboration](https://evanwill.github.io/_drafts/notes/git-collaboration.html), [Get Git](https://uidaholib.github.io/get-git/), and [go-go gh-pages](https://evanwill.github.io/go-go-ghpages/). (happy to do a version of these workshops with students)
 
 Markdown for writing:
 - Dennis Tenen and Grant Wythoff, [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown), *Programming Historian* (2014). ([Pandoc](http://pandoc.org/installing.html) coverts `.md` to other formats such as PDF or .docx)
