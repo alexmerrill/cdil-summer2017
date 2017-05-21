@@ -16,15 +16,15 @@ Also - [Maura Ives Afterword](https://ida.lib.uidaho.edu:2337/article/550525 ) t
 
 [Victorian Web](http://www.victorianweb.org/misc/vwintro.html) (since 1987, pre-internet)
 
-- Omeka (popular CMS for exhibits and teaching)
-- WordPress (most common CMS in the world. Powerful web-based admin interface, user authentication, media management)
-- GH-Pages (simple, free static hosting. higher learning curve)
+- Omeka (popular CMS for exhibits and teaching. See [Getting Started with Omeka](http://uilibraryworkshop.omeka.net/) workshop.)
+- WordPress (most common CMS in the world. Powerful web-based admin interface, user authentication, media management, comments. See [wp-demo](https://uiworkshop.wordpress.com/) workshop.)
+- GH-Pages (simple, free static hosting. Higher learning curve.)
 
 > # Lunch Break
 
 ## 3. Build a Profile Site 
 
-Choose your platform
+Choose your platform:
 - GH-pages
 - WordPress on Reclaim
 
@@ -34,16 +34,14 @@ The web is fragile and transient which has significant implications for scholars
 Web archives are raw material for research and best practice for capturing important resources for the future.
 
 - [Internet Archive](https://archive.org/) (huge collection useful for retrieving broken links, browsing history, and archiving current sites. Demo: Tweed Museum ~2003, http://www.d.umn.edu/tma/)
-- [perma.cc](https://perma.cc/) (free service useful for citations)
-- [LOC web archive collections](https://www.loc.gov/websites/collections/)
-- Incredible LOC [Web Archiving video](https://youtu.be/T0943YkhLWU)
-- [IIPC](http://www.netpreserve.org/web-archiving/overview)
+- [perma.cc](https://perma.cc/) (free service useful for citations in academic writing)
+- Incredible LOC [Web Archiving video](https://youtu.be/T0943YkhLWU) and [LOC web archive collections](https://www.loc.gov/websites/collections/)
 
 ## 5. Personal Project Work 
 
 # Resources
 
-DHSI 2016 [DH Pedagogy course packet](http://dhsi.org/content/2016Curriculum/11.%20Digital%20Humanities%20Pedagogy-%20Integration%20in%20the%20Curriculum%20(2016).pdf)
+DHSI 2016 [DH Pedagogy course packet](http://dhsi.org/content/2016Curriculum/11.%20Digital%20Humanities%20Pedagogy-%20Integration%20in%20the%20Curriculum%20(2016).pdf).
 
 Syllabi / courses / assignments:
 - Miriam Posner, DH101 [2015](http://miriamposner.com/dh101f15/), [2016](http://miriamposner.com/classes/dh101f16/).
@@ -68,17 +66,17 @@ ed. Kevin Kee (University of Michigan Press, 2014), [DOI:10.3998/dh.12544152.000
 - Anne Burdick, Johanna Drucker, Peter Lunenfeld, Todd Presner, and Jeffrey Schnapp, [*DIGITAL_HUMANITIES*](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf) (MIT Press, 2012).
 
 Other resources:
-- Miriam Posner, [DH101: A Highly Opinionated Resource Guide](https://docs.google.com/document/d/1Z-14hgZPMIiAzT6vx1mVg5l60zkRVU9EHgZgK9HHdU4/edit)
-- hastac [The Pedagogy Project](https://www.hastac.org/pedagogy-project) (contributed projects, activities, strategies, etc)
+- Miriam Posner, [DH101: A Highly Opinionated Resource Guide](https://docs.google.com/document/d/1Z-14hgZPMIiAzT6vx1mVg5l60zkRVU9EHgZgK9HHdU4/edit).
+- hastac [The Pedagogy Project](https://www.hastac.org/pedagogy-project). (contributed projects, activities, strategies, etc)
 - [dhcommons](http://dhcommons.org/)
 
 Omeka:
-- Programming Historian lessons [Up and Running with omeka](http://programminghistorian.org/lessons/up-and-running-with-omeka) + [Creating an Omeka Exhibit](http://programminghistorian.org/lessons/creating-an-omeka-exhibit) 
-- [Educators guide](http://info.omeka.net/omeka-net-help/use-case-educators/)
-- [Neatline](http://neatline.org/about/) (timeline plugin)
+- Programming Historian lessons [Up and Running with omeka](http://programminghistorian.org/lessons/up-and-running-with-omeka) and [Creating an Omeka Exhibit](http://programminghistorian.org/lessons/creating-an-omeka-exhibit).
+- Omeka [Educators guide](http://info.omeka.net/omeka-net-help/use-case-educators/).
+- [Neatline](http://neatline.org/about/). (timeline plugin)
 
 Web annotation:
-- [Hypothes.is](https://hypothes.is/) (simple annotation layer added to site URL or via WP plugin, [educators guide](https://hypothes.is/education/))
-- Collaborative annotation platforms [Annotation Studio](http://www.annotationstudio.org/) or [eMargin](http://emargin.bcu.ac.uk/)
-- WordPress plugins [ScholarPress](http://chnm.gmu.edu/scholarpress/) or [Commentpress](https://wordpress.org/plugins/commentpress-core/)
+- [Hypothes.is](https://hypothes.is/). (simple annotation layer added to site via URL, [educators guide](https://hypothes.is/education/))
+- Collaborative annotation platforms [Annotation Studio](http://www.annotationstudio.org/) or [eMargin](http://emargin.bcu.ac.uk/).
+- WordPress plugins [ScholarPress](http://chnm.gmu.edu/scholarpress/) or [Commentpress](https://wordpress.org/plugins/commentpress-core/).
 - Amanda Visconti, [Infinite Ulysses](http://www.infiniteulysses.com/) (2016). ("participatory literature conversation"?)

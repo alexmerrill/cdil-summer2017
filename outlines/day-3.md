@@ -6,18 +6,17 @@ Day: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.m
 
 ## 1. Reflection / discussion
 
-Mitchell Whitelaw ["Generous interfaces"](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html) and the Tim Sherratt ["It's All About the Stuff"](http://journalofdigitalhumanities.org/1-1/its-all-about-the-stuff-by-tim-sherratt/).
+[Generous interfaces](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html) and the [stuff of digital collections](http://journalofdigitalhumanities.org/1-1/its-all-about-the-stuff-by-tim-sherratt/).
 
 ## 2. Digitization and Metadata Creation
 
 We build a small digital collection together!
 
 Scanning to archival standards, recording metadata using best practices and controlled vocabularies.
+
 Software: Photoshop, Acrobat, VueScan, Google Sheets
 
 Collection: [Civilian Conservation Corps in Idaho](http://digital.lib.uidaho.edu/cdm/search/collection/cccidaho/cosuppress/) - Images and Documents from Pat Hart and Ivar Nelson's collection.
-
-4 Stations - 3 image scanning and one feed scanning
 
 ## 3. Visualization
 
@@ -46,6 +45,10 @@ Reflect on the process.
 ### Other options
 
 # Resources
+
+Mitchell Whitelaw, ["Generous Interfaces for Digital Cultural Collections"](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html), *DHQ* 9, 1 (2015). 
+
+Tim Sherratt, ["It’s All About the Stuff: Collections, Interfaces, Power, and People"](http://journalofdigitalhumanities.org/1-1/its-all-about-the-stuff-by-tim-sherratt/), *JDH* 1, 1 (2011).
 
 Katie Rawson and Trevor Muñoz, ["Against Cleaning"](http://curatingmenus.org/articles/against-cleaning/), *Curating Menus* (2016). (discussion about lack of reflection about the practice of data cleaning, despite it being the largest part of any project)
 
