@@ -66,6 +66,8 @@ Demo IP addresses:
 
 - domain name considerations
 
+uidaho2017
+
 ## 5. Version Control: Git/GitHub
 
 Check [Get Git!](https://uidaholib.github.io/get-git/)
