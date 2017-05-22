@@ -75,7 +75,9 @@ Check [Get Git!](https://uidaholib.github.io/get-git/) and [Git for Collaboratio
 Create repository for example assignment.
 
 Introduce project management and history visualizations.
-- [Ted Underwood](https://github.com/tedunderwood), [paceofchange](https://github.com/tedunderwood/paceofchange).
+- [Ted Underwood](https://github.com/tedunderwood), [paceofchange](https://github.com/tedunderwood/paceofchange). (code for academic publication, contains more information and details for reproducability and re-use)
+- Miriam Posner [Cytoscape tutorials](https://github.com/miriamposner/cytoscape_tutorials) (2016), DOI:10.5281/zenodo.56245. (tutorials for classroom, shared in easy format to re-use)
+Shawn Graham, Crafting Digital History, [course workbook](http://workbook.craftingdigitalhistory.ca/), [repository](https://github.com/shawngraham/hist3907o), and [organization](https://github.com/craftingdigitalhistory).
 
 ## 6. Write in plain text: Markdown
 
