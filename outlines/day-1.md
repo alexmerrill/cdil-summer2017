@@ -51,7 +51,6 @@ See [clean-your-data start](https://evanwill.github.io/clean-your-data/3-start.h
  
 Select the “USING YOUR UNIVERSITY OF IDAHO ACCOUNT” button and login using netID
 
-> # Lunch break
 
 ## 4. The Web
 
@@ -69,13 +68,21 @@ Demo IP addresses:
 - `nslookup www.lib.uidaho.edu` 
 - traceroute / tracert / tracepath `tracepath www.google.com`
 
+> # Lunch break
+
+## 5. Discussion and Introduction
+
+What do you want out of this? How can we set it up so that it's structured yet malleable?
+
 ### Set up Reclaim hosting 
 
 - domain name considerations
 
 uidaho2017
 
-## 5. Version Control: Git/GitHub
+[http://bit.ly/uidaho2017](http://bit.ly/uidaho2017)
+
+## 6. Version Control: Git/GitHub
 
 Check [Get Git!](https://uidaholib.github.io/get-git/) and [Git for Collaboration Intro](https://evanwill.github.io/_drafts/notes/git-collaboration.html).
 
@@ -86,7 +93,7 @@ Introduce project management and history visualizations.
 - Miriam Posner [Cytoscape tutorials](https://github.com/miriamposner/cytoscape_tutorials) (2016), DOI:10.5281/zenodo.56245. (tutorials for classroom, shared in easy format to re-use)
 - Shawn Graham, Crafting Digital History, [course workbook](http://workbook.craftingdigitalhistory.ca/), [repository](https://github.com/shawngraham/hist3907o), and [organization](https://github.com/craftingdigitalhistory).
 
-## 6. Write in plain text: Markdown
+## 7. Write in plain text: Markdown
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 
 [GitHub markdown flavor](https://help.github.com/articles/basic-writing-and-formatting-syntax/) can be used any where on GitHub.
@@ -136,7 +143,7 @@ Check out this [GitHub Markdown tutorial](https://guides.github.com/features/mas
 
 Create a basic outline of your assignment idea in Markdown.
 
-## 7. Discussion
+## 8. Discussion
 
 - [What is Digital Humanities?](http://whatisdigitalhumanities.com/) (and its [repository](https://github.com/hepplerj/whatisdigitalhumanities))
 - Individual projects, assignment ideas
