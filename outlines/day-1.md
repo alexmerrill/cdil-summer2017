@@ -79,6 +79,8 @@ What do you want out of this? How can we set it up so that it's structured yet m
 
 uidaho2017
 
+[http://bit.ly/uidaho2017](http://bit.ly/uidaho2017)
+
 ## 6. Version Control: Git/GitHub
 
 Check [Get Git!](https://uidaholib.github.io/get-git/) and [Git for Collaboration Intro](https://evanwill.github.io/_drafts/notes/git-collaboration.html).
