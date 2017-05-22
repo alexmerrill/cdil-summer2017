@@ -67,6 +67,7 @@ Demo IP addresses:
 - `ping www.google.com` 
 - `nslookup www.lib.uidaho.edu` 
 - traceroute / tracert / tracepath `tracepath www.google.com`
+
 > # Lunch break
 
 ## 5. Discussion and Introduction
