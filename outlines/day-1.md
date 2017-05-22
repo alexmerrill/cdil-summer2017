@@ -43,6 +43,7 @@ Install Git. See [Get-Git prep](https://uidaholib.github.io/get-git/0prep.html).
 ### OpenRefine install
 
 See [clean-your-data start](https://evanwill.github.io/clean-your-data/3-start.html) page.
+- [mac install issues](https://evanwill.github.io/_drafts/notes/open-refine-osx.html)
 
 > # Lunch break
 
