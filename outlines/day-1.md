@@ -45,6 +45,12 @@ Install Git. See [Get-Git prep](https://uidaholib.github.io/get-git/0prep.html).
 See [clean-your-data start](https://evanwill.github.io/clean-your-data/3-start.html) page.
 - [mac install issues](https://evanwill.github.io/_drafts/notes/open-refine-osx.html)
 
+### ArcGIS Account Setup
+
+[https://uidaho.maps.arcgis.com/home/signin.html](https://uidaho.maps.arcgis.com/home/signin.html)
+ 
+Select the “USING YOUR UNIVERSITY OF IDAHO ACCOUNT” button and login using netID
+
 > # Lunch break
 
 ## 4. The Web
