@@ -4,7 +4,7 @@ Day: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.m
 
 > Prepping the DH toolkit, barriers
 
-## 1. Setup and Introductions
+## 1. Introductions
 
 ## 2. Physical Computing and Intro to Code
 
@@ -14,12 +14,12 @@ How can we examine our relationship with the digital world and the cultural assu
 
 [Physical computing](http://maker.uvic.ca/physcomp/), [minimal computing](http://go-dh.github.io/mincomp/thoughts/), [critical making](http://conceptlab.com/criticalmaking/).
 
-See [Hello-Arduino](https://evanwill.github.io/hello-arduino/)
+Physical computing icebreaker: [Hello-Arduino](https://evanwill.github.io/hello-arduino/)
 
 - What is a computer? Compare microcontroller ([Arduino](https://www.arduino.cc/)), minicomputer ([Raspberry Pi](https://www.raspberrypi.org/)), desktop computer, vs. server.
 - What is code? Plain text, text editor, IDE.
-- Explore the concept of [free](https://www.gnu.org/philosophy/free-sw.en.html) and open source software and hardware.
-- Pedagogical benefits: active, project based learning, "media computing"; digital literacy; computational thinking.
+- [Free](https://www.gnu.org/philosophy/free-sw.en.html) and open source software and hardware.
+- Active, project based learning, "media computing"; digital literacy; computational thinking.
 
 ## 3. Computer Setup
 
@@ -70,9 +70,12 @@ uidaho2017
 
 ## 5. Version Control: Git/GitHub
 
-Check [Get Git!](https://uidaholib.github.io/get-git/)
+Check [Get Git!](https://uidaholib.github.io/get-git/) and [Git for Collaboration Intro](https://evanwill.github.io/_drafts/notes/git-collaboration.html).
 
 Create repository for example assignment.
+
+Introduce project management and history visualizations.
+- [Ted Underwood](https://github.com/tedunderwood), [paceofchange](https://github.com/tedunderwood/paceofchange).
 
 ## 6. Write in plain text: Markdown
 
