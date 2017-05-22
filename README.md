@@ -23,7 +23,7 @@ University of Idaho’s [Center for Digital Inquiry and Learning](http://digital
 Cohort:
 - [Denise Bennett](https://github.com/denisebennett)
 - [Adam Sowards](https://github.com/AdamMSowards)
-- Matthew Fox-Amato
+- [Matthew Fox-Amato](https://github.com/mfamato)
 - [Kristine Levan](https://github.com/kristinelevan)
 - [Devin Becker](https://github.com/dcnb)
 - [Evan Williamson](https://github.com/evanwill/)
