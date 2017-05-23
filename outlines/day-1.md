@@ -86,6 +86,9 @@ uidaho2017
 
 Check [Get Git!](https://uidaholib.github.io/get-git/) and [Git for Collaboration Intro](https://evanwill.github.io/_drafts/notes/git-collaboration.html).
 
+- GutHub [Desktop user guides](https://help.github.com/desktop/guides/)
+- Daniel van Strien, [An Introduction to Version Control Using GitHub Desktop](http://programminghistorian.org/lessons/getting-started-with-github-desktop), *programming historian*.
+
 Create repository for example assignment.
 
 Introduce project management and history visualizations.
