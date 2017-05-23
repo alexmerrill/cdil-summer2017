@@ -22,12 +22,6 @@ Collection: [Civilian Conservation Corps in Idaho](http://digital.lib.uidaho.edu
 
 Text Analysis, Spatial Analysis, Time Series, and Network Analysis
 
-Geospatial visualization:
-- Alex Wellerstein, [Nukemap](http://nuclearsecrecy.com/nukemap/)
-- [The Map Room](http://www.lib.uidaho.edu/digital/maps/)
-- XKCD, [Movie Narrative Charts](https://xkcd.com/657/)
-- [Minard](https://en.wikipedia.org/wiki/Charles_Joseph_Minard), [Napoleon’s 1812 Russian campaign](https://commons.wikimedia.org/wiki/File:Minard.png).
-
 Google Fusion Tables for Mapping -  White Pine King of Many Waters (link to csv)
 
 Timelinejs - Bunker Hill (link to csv)
@@ -44,7 +38,11 @@ Reflect on the process.
 
 ## 5. Project work and discussion
 
-### Other options
+Geospatial visualization:
+- Alex Wellerstein, [Nukemap](http://nuclearsecrecy.com/nukemap/)
+- [The Map Room](http://www.lib.uidaho.edu/digital/maps/)
+- XKCD, [Movie Narrative Charts](https://xkcd.com/657/)
+- [Minard](https://en.wikipedia.org/wiki/Charles_Joseph_Minard), [Napoleon’s 1812 Russian campaign](https://commons.wikimedia.org/wiki/File:Minard.png).
 
 # Resources
 
