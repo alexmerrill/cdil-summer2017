@@ -30,6 +30,8 @@ Timelinejs - Bunker Hill (link to csv)
 
 ## 4. ArcGIS StoryMap
 
+[SIGN IN FIRST](https://uidaho.maps.arcgis.com/home/signin.html)
+
 [ArcGIS StoryMap](https://storymaps.arcgis.com/en/)
 
 [Direct Link to your Stories](http://storymaps.arcgis.com/en/my-stories/)
@@ -41,7 +43,8 @@ Using materials from today or from the web, build a StoryMap.
 - Flickr Album: University of Idaho Digital Initiatives
 - Download this csv for Map Tour: [MapTour.csv](https://raw.githubusercontent.com/uidaholib/cdil-summer2017/master/data/MapTour.csv)
 - [How to make a map and then a story map](http://storymaps.arcgis.com/en/app-list/basic/tutorial/)
-
+- [Notes on Best Practices](http://storymaps.esri.com/downloads/Building%20Story%20Maps.pdf)
+- [Map Journal Tutorial](https://storymaps.arcgis.com/en/app-list/map-journal/tutorial/)
 
 Reflect on the process. 
 
