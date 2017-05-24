@@ -16,9 +16,9 @@ Also - [Maura Ives Afterword](https://ida.lib.uidaho.edu:2337/article/550525 ) t
 
 [Victorian Web](http://www.victorianweb.org/misc/vwintro.html) (since 1987, pre-internet)
 
-- Omeka (popular CMS for exhibits and teaching. See [Getting Started with Omeka](http://uilibraryworkshop.omeka.net/) workshop.)
-- WordPress (most common CMS in the world. Powerful web-based admin interface, user authentication, media management, comments. See [wp-demo](https://uiworkshop.wordpress.com/) workshop.)
-- GH-Pages (simple, free static hosting. Higher learning curve.)
+- Omeka (popular CMS for exhibits and teaching. See [Getting Started with Omeka](http://uilibraryworkshop.omeka.net/) workshop. Classroom example [The History Harvest](http://historyharvest.unl.edu/).)
+- WordPress (most common CMS in the world. Powerful web-based admin interface, user authentication, media management, comments. See [wp-demo](https://uiworkshop.wordpress.com/) workshop. Profile example [Jentry Sayers](http://www.jenterysayers.com/).)
+- GH-Pages (simple, free static hosting. Higher learning curve. See [go-go gh-pages](https://evanwill.github.io/go-go-ghpages/). Profile example [Shawn Graham open notebook](http://shawngraham.github.io/).)
 
 > # Lunch Break
 
