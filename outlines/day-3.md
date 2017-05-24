@@ -38,8 +38,16 @@ Timelinejs - Bunker Hill (link to csv)
 
 [ArcGIS StoryMap](https://storymaps.arcgis.com/en/)
 
+[Direct Link to your Stories](http://storymaps.arcgis.com/en/my-stories/)
 Telling a multi-modal story with a StoryMap.
 Using materials from today or from the web, build a StoryMap. 
+
+#### Materials
+- Flickr Album: University of Idaho Digital Initiatives
+- Download this csv for Map Tour: []
+- [How to make a map and then a story map](http://storymaps.arcgis.com/en/app-list/basic/tutorial/)
+
+
 Reflect on the process. 
 
 ## 5. Project work and discussion
