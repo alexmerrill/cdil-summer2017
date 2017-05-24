@@ -10,9 +10,13 @@ Day: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.m
 
 OpenRefine Sonnets project
 
+See [Fetch and Parse Data with OpenRefine](https://github.com/evanwill/refine-lessons/blob/master/fetch-and-parse-data-with-openrefine.md)
+
 ## 3. Text and Machine Learning
 
 OpenRefine sentiment analysis project
+
+[rawgraphs](http://rawgraphs.io/)
 
 > # Lunch Break
 
@@ -62,6 +66,8 @@ Jeffrey M. Binder, ["Alien Reading: Text Mining, Language Standardization, and t
 Stanford Literary Lab [Pamphlets](http://litlab.stanford.edu/pamphlets/). (ongoing series of publications relating to "computational criticism")
 
 [Sunspring](https://youtu.be/LY7x2Ihqjmc). (a film script written by AI)
+
+[Periscopic data](http://www.periscopic.com/) ("socially-conscious data visualization")
 
 Tools directories:
 - [DiRT Directory](http://dirtdirectory.org/)
