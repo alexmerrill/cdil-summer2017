@@ -70,8 +70,8 @@ Web based tools:
 - [TimelineJS](https://timeline.knightlab.com/) (simple timeline connected to Google Sheets)
 - [Timemapper](http://timemapper.okfnlabs.org/) (TimelineJS with a map)
 - [StoryMapJS](https://storymap.knightlab.com/) (basic slideshow connected to a map, set up using a web based editor) [advanced setup](https://storymap.knightlab.com/advanced/)
-- [geoJSON on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github/) (simple way to render and embed maps from GitHub)
-- [VisualEyes](http://www.viseyes.org/visualeyes/) (map, timeline, text)
+- [geoJSON on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github/) (simple way to render and embed maps from GitHub). Uses Leaflet.js, [example repo](https://github.com/evanwill/geotest).
+- [VisualEyes](http://www.viseyes.org/visualeyes/) (map, timeline, media, text. project from U of Virginia [SHANTI INTERACTIVE](http://www.viseyes.org/)) *Not suggested, but example of academic attempt of geospatial software*
 - [WorldMap](http://worldmap.harvard.edu/) (harvard open GIS platform)
 - [Map Warper](http://mapwarper.net/) (geo-rectify and find historic maps)
 - [Palladio](http://hdlab.stanford.edu/palladio/) (web based historial data viz tool)
