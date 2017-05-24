@@ -27,7 +27,7 @@ New readings: statistics, visualizations, NLP
 Visualize text(s):
 - [Juxta](http://juxtacommons.org/) (visual collation, example classroom [assignments](http://www.juxtasoftware.org/using-juxta-in-the-classroom-scholars-lab-presentation/), [Frankenstein editions assignment](https://mla.hcommons.org/?get_group_doc=387/1420320643-Bninski.notesforMLACommons.pdf))
 - Jason Davies [WordTree](https://www.jasondavies.com/wordtree/) (visual concordance, D3 web app, [academic explanation](http://hint.fm/projects/wordtree/))
-- [Voyant](http://voyant-tools.org/) (suite of viz tools, [Help](http://voyant-tools.org/docs/#!/guide/start), [Voyant Docs](http://docs.voyant-tools.org/), and [VoyantServer](https://github.com/sgsinclair/VoyantServer) for offline use)
+- [Voyant](http://voyant-tools.org/) (suite of viz tools, [Help](http://voyant-tools.org/docs/#!/guide/start), [Voyant Docs](http://docs.voyant-tools.org/), and [VoyantServer](https://github.com/sgsinclair/VoyantServer) for offline use. Explore Adam's writing: [forest](http://voyant-tools.org/?corpus=ad9d4fbe072d540cfc40e0ce9206c9c7&panels=cirrus,reader,trends,summary,contexts), [public](http://voyant-tools.org/?corpus=9201a8d973ae5b0fb618eda9e762d4ae&panels=cirrus,reader,trends,summary,contexts))
 - [AntConc](http://www.laurenceanthony.net/software/antconc/) (lots of software and publications from Laurence Anthony)
 
 Text Big Data: 
