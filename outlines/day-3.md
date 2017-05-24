@@ -46,6 +46,7 @@ Using materials from today or from the web, build a StoryMap.
 - [Notes on Best Practices](http://storymaps.esri.com/downloads/Building%20Story%20Maps.pdf)
 - [Map Journal Tutorial](https://storymaps.arcgis.com/en/app-list/map-journal/tutorial/)
 
+
 Reflect on the process. 
 
 ## 5. Project work and discussion
