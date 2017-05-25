@@ -13,6 +13,8 @@ Dissect example projects and publications.
 
 ## 2. Reflection / Discussion
 
+Daniel Allington, Sarah Brouillette, David Golumbia, [Neoliberal Tools (and Archives): A Political History of Digital Humanities](https://lareviewofbooks.org/article/neoliberal-tools-archives-political-history-digital-humanities/), LARB (2016). 
+
 Future:
 - course integrations. 
 - research directions.
