@@ -8,8 +8,6 @@ Day: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.m
 
 ## 2. Unstructured text to data
 
-[Devin's Poem Data](https://docs.google.com/spreadsheets/d/19GFEq_-IcAmouTA0zbSVN9c6YfzYRSZXDDvq-npq1Gg/edit?usp=sharing)
-
 OpenRefine Sonnets project
 
 See [Fetch and Parse Data with OpenRefine](https://github.com/evanwill/refine-lessons/blob/master/fetch-and-parse-data-with-openrefine.md)
