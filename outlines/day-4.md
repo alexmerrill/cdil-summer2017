@@ -55,9 +55,9 @@ distant versus close reading. digital editing and annotating, versus computation
 
 # Resources
 
-Ted Underwood, ["Seven Ways Humanists are Using Computers to Understand Text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) (2015). (overview of types of computational analysis)
+Ted Underwood, ["Seven Ways Humanists are Using Computers to Understand Text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) (2015). (intro overview of types of computational analysis)
 
-Ted Underwood, [paceofchange](https://github.com/tedunderwood/paceofchange) (2015). (GitHub repository sharing code to reproduce analysis reported in his article ["How Quickly Do Literary Standards Change?"](https://figshare.com/articles/How_Quickly_Do_Literary_Standards_Change_/1418394))
+Ted Underwood, [paceofchange](https://github.com/tedunderwood/paceofchange) (2015). (GitHub repository sharing code to reproduce analysis reported in his article ["How Quickly Do Literary Standards Change?"](https://figshare.com/articles/How_Quickly_Do_Literary_Standards_Change_/1418394). The article explicitly explains the research process, from collecting/selecting data to analysis.)
 
 Ted Underwood, ["The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us"](http://hdl.handle.net/2142/49323), in *New Literary History* (2014).
 
@@ -65,7 +65,7 @@ Jeffrey M. Binder, ["Alien Reading: Text Mining, Language Standardization, and t
 
 Stanford Literary Lab [Pamphlets](http://litlab.stanford.edu/pamphlets/). (ongoing series of publications relating to "computational criticism")
 
-[Sunspring](https://youtu.be/LY7x2Ihqjmc). (a film script written by AI)
+[Sunspring](https://youtu.be/LY7x2Ihqjmc) (a film script written by AI)
 
 [Periscopic data](http://www.periscopic.com/) ("socially-conscious data visualization")
 

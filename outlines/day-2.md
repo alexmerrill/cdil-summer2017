@@ -80,3 +80,5 @@ Web annotation:
 - Collaborative annotation platforms [Annotation Studio](http://www.annotationstudio.org/) or [eMargin](http://emargin.bcu.ac.uk/).
 - WordPress plugins [ScholarPress](http://chnm.gmu.edu/scholarpress/) or [Commentpress](https://wordpress.org/plugins/commentpress-core/).
 - Amanda Visconti, [Infinite Ulysses](http://www.infiniteulysses.com/) (2016). ("participatory literature conversation"?)
+- [VideoAnt](https://ant.umn.edu/) (video annotation system from U of Minnesota. [Docs for educators](https://ant.umn.edu/documentation##section-ideas-for-instructors))
+- Annotation in teaching: Laura Lisabeth, ["Empowering Education with Social Annotation and Wikis"](http://epress.trincoll.edu/webwriting/chapter/lisabeth/) and Jason B. Jones, ["There Are No New Directions in Annotations"](http://epress.trincoll.edu/webwriting/chapter/jones/), in *Web Writing* (U of Michigan Press, 2014).
