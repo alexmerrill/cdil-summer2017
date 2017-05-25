@@ -54,6 +54,7 @@ Programming as inquiry
 distant versus close reading. digital editing and annotating, versus computation. 
 
 # Resources
+Gideon Lewis-Kraus, [The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html), NYTimes Magazine, December 2016.
 
 Ted Underwood, ["Seven Ways Humanists are Using Computers to Understand Text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) (2015). (intro overview of types of computational analysis)
 
