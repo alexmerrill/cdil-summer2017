@@ -43,6 +43,8 @@ Web archives are raw material for research and best practice for capturing impor
 
 DHSI 2016 [DH Pedagogy course packet](http://dhsi.org/content/2016Curriculum/11.%20Digital%20Humanities%20Pedagogy-%20Integration%20in%20the%20Curriculum%20(2016).pdf).
 
+Ryan Cordell, ["How Not to Teach Digital Humanities"](http://dhdebates.gc.cuny.edu/debates/text/87), in *Debates in the Digital Humanities* (2016).
+
 Syllabi / courses / assignments:
 - Miriam Posner, DH101 [2015](http://miriamposner.com/dh101f15/), [2016](http://miriamposner.com/classes/dh101f16/).
 - Jeffrey McClurken, [Adventures in Digital History](http://courses.mcclurken.org/adh/syllabus/) 2016.

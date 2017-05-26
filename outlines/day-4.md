@@ -6,32 +6,21 @@ Day: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.m
 
 ## 1. Reflection / discussion
 
-## 2. Unstructured text to data
+Ted Underwood, [paceofchange](https://github.com/tedunderwood/paceofchange) (2015). (GitHub repository sharing code to reproduce analysis reported in his article ["How Quickly Do Literary Standards Change?"](https://figshare.com/articles/How_Quickly_Do_Literary_Standards_Change_/1418394). The article explicitly explains the research process, from collecting/selecting data to analysis. Creating a supervised classification machine learning model not to predict, but to interrogate the model.)
 
-OpenRefine Sonnets project
-
-See [Fetch and Parse Data with OpenRefine](https://github.com/evanwill/refine-lessons/blob/master/fetch-and-parse-data-with-openrefine.md)
-
-## 3. Text and Machine Learning
-
-OpenRefine sentiment analysis project
-
-[rawgraphs](http://rawgraphs.io/)
-
-> # Lunch Break
-
-## 4. Text / Data Visualization
+## 2. Text / Data Visualization
 
 [VPOD PoemChoice](https://uidaholib.github.io/poemchoice/)
 
-Thinking with visualization: analytics < - > communication
+Thinking with visualization vs. communicating with visualizations: analytics < - > communication
 
-New readings: statistics, visualizations, NLP
+New ways of readings: statistics, visualizations, NLP
 
 Visualize text(s):
 - [Juxta](http://juxtacommons.org/) (visual collation, example classroom [assignments](http://www.juxtasoftware.org/using-juxta-in-the-classroom-scholars-lab-presentation/), [Frankenstein editions assignment](https://mla.hcommons.org/?get_group_doc=387/1420320643-Bninski.notesforMLACommons.pdf))
 - Jason Davies [WordTree](https://www.jasondavies.com/wordtree/) (visual concordance, D3 web app, [academic explanation](http://hint.fm/projects/wordtree/))
 - [Voyant](http://voyant-tools.org/) (suite of viz tools, [Help](http://voyant-tools.org/docs/#!/guide/start), [Voyant Docs](http://docs.voyant-tools.org/), and [VoyantServer](https://github.com/sgsinclair/VoyantServer) for offline use. Explore Adam's writing: [forest](http://voyant-tools.org/?corpus=ad9d4fbe072d540cfc40e0ce9206c9c7&panels=cirrus,reader,trends,summary,contexts), [public](http://voyant-tools.org/?corpus=9201a8d973ae5b0fb618eda9e762d4ae&panels=cirrus,reader,trends,summary,contexts))
+- [OverviewDocs](https://www.overviewdocs.com/) (tool for exploring huge groups of documents designed for journalists, e.g. Wikileaks email dump)
 - [AntConc](http://www.laurenceanthony.net/software/antconc/) (lots of software and publications from Laurence Anthony)
 
 Text Big Data: 
@@ -40,7 +29,8 @@ Text Big Data:
 - N-Grams: [Bookworm](http://bookworm.culturomics.org/) or [Google Books Ngram Viewer](https://books.google.com/ngrams) (see [TED talk](https://www.ted.com/talks/what_we_learned_from_5_million_books?language=en))
 
 Natural Language Processing / Machine Learning:
-- Typically classification tasks: Entity recognition, POS tagging, topic modeling, sentiment, summarization. (supervised vs. unsupervised)
+- Typically classification tasks: Entity recognition, POS tagging, topic modeling, sentiment, summarization. 
+- Supervised vs. Unsupervised classification
 - Python [NLTK](http://www.nltk.org/) (plus simpler [TextBlob](https://textblob.readthedocs.io/en/dev/), and more powerful [scikit-learn](http://scikit-learn.org/stable/index.html))
 - [MALLET](http://mallet.cs.umass.edu/index.php) topic modeling
 - [Stanford NLP Group](http://nlp.stanford.edu/software/) (a library of Java apps, e.g. [named entity tagging demo](http://nlp.stanford.edu:8080/ner/), with academic papers explaining their use)
@@ -49,11 +39,26 @@ Natural Language Processing / Machine Learning:
 
 Programming as inquiry
 
+> # Lunch Break
+
+## 3. Unstructured text to data
+
+OpenRefine Sonnets project
+
+See [Fetch and Parse Data with OpenRefine](https://github.com/evanwill/refine-lessons/blob/master/fetch-and-parse-data-with-openrefine.md)
+
+## 4. Text and Machine Learning
+
+OpenRefine sentiment analysis project
+
+[rawgraphs](http://rawgraphs.io/)
+
 ## 5. Project Work and Discussion
 
 distant versus close reading. digital editing and annotating, versus computation. 
 
 # Resources
+
 Gideon Lewis-Kraus, [The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html), NYTimes Magazine, December 2016.
 
 Ted Underwood, ["Seven Ways Humanists are Using Computers to Understand Text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) (2015). (intro overview of types of computational analysis)
