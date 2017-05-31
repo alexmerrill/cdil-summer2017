@@ -69,6 +69,8 @@ Fred Gibbs and Trevor Owens, ["The Hermeneutics of Data and Historical Writing"]
 
 Scott B. Weingart, ["Demystifying Networks"](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/), *JDH* 1, 1 (2011).
 
+Luke Tredinnick, "The Making of History: Remediating Historicized Experience" and Brian Maidment, "Writing History with the Digital Image: A Cautious Celebration", in  Toni Weller, ed., *History in the Digital Age* (London: Routledge, 2013).
+
 Tutorials:
 - Sarah Simpkin, [Introduction to mapping and spatial methods for the humanities](https://ssimpkin.github.io/dhsite2017/) (2017).
 - Lincoln Mullen, [Spatial Humanities Workshop](http://lincolnmullen.com/projects/spatial-workshop/) (2015).

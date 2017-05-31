@@ -25,6 +25,7 @@ Mitchell Whitelaw, ["Generous Interfaces for Digital Cultural Collections"](http
 - Jeffrey M. Binder, ["Alien Reading: Text Mining, Language Standardization, and the Humanities"](http://dhdebates.gc.cuny.edu/debates/text/69) in *Debates in the Digital Humanities* (2016).
 - Stanford Literary Lab [Pamphlets](http://litlab.stanford.edu/pamphlets/). (ongoing series of publications relating to "computational criticism")
 - Daniel Allington, Sarah Brouillette, David Golumbia, [Neoliberal Tools (and Archives): A Political History of Digital Humanities](https://lareviewofbooks.org/article/neoliberal-tools-archives-political-history-digital-humanities/), LARB (2016). 
+- Luke Tredinnick, "The Making of History: Remediating Historicized Experience" and Brian Maidment, "Writing History with the Digital Image: A Cautious Celebration", in  Toni Weller, ed., *History in the Digital Age* (London: Routledge, 2013).
 
 ## Books:
 
