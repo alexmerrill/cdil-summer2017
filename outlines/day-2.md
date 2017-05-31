@@ -20,6 +20,12 @@ Also - [Maura Ives Afterword](https://ida.lib.uidaho.edu:2337/article/550525 ) t
 - WordPress (most common CMS in the world. Powerful web-based admin interface, user authentication, media management, comments. See [wp-demo](https://uiworkshop.wordpress.com/) workshop. Profile example [Jentry Sayers](http://www.jenterysayers.com/).)
 - GH-Pages (simple, free static hosting. Higher learning curve. See [go-go gh-pages](https://evanwill.github.io/go-go-ghpages/). Profile example [Shawn Graham open notebook](http://shawngraham.github.io/).)
 
+Others:
+- [Mukurtu](http://mukurtu.org/) ("platform built with indigenous communities to manage and share digital cultural heritage". Developed at WSU. Collection example [Plateau Peoples'
+Web Portal](http://plateauportal.libraries.wsu.edu/). See also [TK Labels](http://www.localcontexts.org/))
+- [Scalar](http://scalar.usc.edu/scalar/) ("authoring and publishing platform that’s designed to make it easy for authors to write long-form, born-digital scholarship online". David Squires' class project [Social Construction of Media](http://scalar.usc.edu/works/cultures-of-social-media/index))
+- [AtoM](https://www.accesstomemory.org/en/) (archival description based CMS)
+
 > # Lunch Break
 
 ## 3. Build a Profile Site 

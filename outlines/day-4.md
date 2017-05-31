@@ -22,6 +22,7 @@ Visualize text(s):
 - [Voyant](http://voyant-tools.org/) (suite of viz tools, [Help](http://voyant-tools.org/docs/#!/guide/start), [Voyant Docs](http://docs.voyant-tools.org/), and [VoyantServer](https://github.com/sgsinclair/VoyantServer) for offline use. Explore Adam's writing: [forest](http://voyant-tools.org/?corpus=ad9d4fbe072d540cfc40e0ce9206c9c7&panels=cirrus,reader,trends,summary,contexts), [public](http://voyant-tools.org/?corpus=9201a8d973ae5b0fb618eda9e762d4ae&panels=cirrus,reader,trends,summary,contexts))
 - [OverviewDocs](https://www.overviewdocs.com/) (tool for exploring huge groups of documents designed for journalists, e.g. Wikileaks email dump)
 - [AntConc](http://www.laurenceanthony.net/software/antconc/) (lots of software and publications from Laurence Anthony)
+- [Poemage](http://www.sci.utah.edu/%7Enmccurdy/Poemage/) ("a visualization system for exploring the sonic topology of a poem")
 
 Text Big Data: 
 > Think about Big Data 3 V’s (volume, variety and velocity). Advances are driven by business seeking to process unstructured text data (the web / social media) to extract value.
@@ -79,7 +80,7 @@ Tools directories:
 - [DiRT Directory](http://dirtdirectory.org/)
 - [TAPoR 3](http://tapor.ca/home) (or try [here](http://tapor-test.artsrn.ualberta.ca/home))
 - [Keshif VisTools](https://keshif.me/demo/VisTools)
-- [Text Visualization Browser]()
+- [Text Visualization Browser](http://textvis.lnu.se/)
 
 Textbooks:
 - Brandon Walsh and Sarah Horowitz, [Introduction to Text Analysis: A Coursebook](http://walshbr.com/textanalysiscoursebook/) (2016). (Open textbook, Jekyll project hosted on gh-pages, [repo](https://github.com/walshbr/textanalysiscoursebook))
@@ -99,3 +100,7 @@ Syllabus / assignments:
 - [DataBasic](https://www.databasic.io/en/). (slick, simple web apps with lessons to introduce text data concepts)
 - [Programming Historian](http://programminghistorian.org/) tutorials.
 - Evan's [text analysis](https://evanwill.github.io/_drafts/notes/text-analysis.html) and [data viz](https://evanwill.github.io/_drafts/notes/viz-notes.html) notes.
+
+Data:
+- *Exploring Big Historical Data: The Historian’s Macroscope*, [data downloads](http://www.themacroscope.org/2.0/data-downloads/)
+- [DH Toychest: Data Collections and Datasets](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244469/Data%20Collections%20and%20Datasets)
