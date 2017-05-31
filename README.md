@@ -27,3 +27,5 @@ Cohort:
 - [Kristine Levan](https://github.com/kristinelevan)
 - [Devin Becker](https://github.com/dcnb)
 - [Evan Williamson](https://github.com/evanwill/)
+
+[Bibliography](readings/bibliography.md)
