@@ -1,0 +1,8 @@
+CC-BY-SA-4.0
+============
+
+The outlines of CDIL-Summer2017 are licensed for reuse and adaption cc-by-sa:
+
+Creative Commons Attribution Share Alike 4.0 International
+
+https://creativecommons.org/licenses/by-sa/4.0/
