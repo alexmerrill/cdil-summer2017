@@ -26,7 +26,7 @@ Mitchell Whitelaw, ["Generous Interfaces for Digital Cultural Collections"](http
 - Stanford Literary Lab [Pamphlets](http://litlab.stanford.edu/pamphlets/). (ongoing series of publications relating to "computational criticism")
 - Daniel Allington, Sarah Brouillette, David Golumbia, [Neoliberal Tools (and Archives): A Political History of Digital Humanities](https://lareviewofbooks.org/article/neoliberal-tools-archives-political-history-digital-humanities/), LARB (2016). 
 - Luke Tredinnick, "The Making of History: Remediating Historicized Experience" and Brian Maidment, "Writing History with the Digital Image: A Cautious Celebration", in  Toni Weller, ed., *History in the Digital Age* (London: Routledge, 2013).
-- [The Amoderns_ Reengaging the Humanities - Alan Liu Interview](https://drive.google.com/file/d/0B4VwEx0I-KYATlVxUHdkWllCNGc/view?usp=sharing)
+- Scott Pound and Alan Liu, [“The Amoderns: Reengaging the Humanities — A Feature Interview with Alan Liu,”](http://amodern.net/article/the-amoderns-reengaging-the-humanities/) *aModern*, 2 (2013).
 - David M. Berry, ["THE COMPUTATIONAL TURN: THINKING ABOUT THE DIGITAL HUMANITIES"](http://sro.sussex.ac.uk/49813/1/BERRY_2011-THE_COMPUTATIONAL_TURN-_THINKING_ABOUT_THE_DIGITAL_HUMANITIES.pdf)
 
 ## Books:
