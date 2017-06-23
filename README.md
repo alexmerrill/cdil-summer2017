@@ -24,3 +24,5 @@ Cohort:
 - [Evan Williamson](https://github.com/evanwill/) [Library]
 
 [Bibliography](readings/bibliography.md)
+
+> The outlines of CDIL-Summer2017 are licensed for reuse and adaption [cc-by-sa](https://creativecommons.org/licenses/by-sa/4.0/)
