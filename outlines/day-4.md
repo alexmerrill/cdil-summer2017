@@ -52,11 +52,11 @@ See [Fetch and Parse Data with OpenRefine](https://github.com/evanwill/refine-le
 
 OpenRefine sentiment analysis project
 
-[rawgraphs](http://rawgraphs.io/)
+Visualize the numbers with [Rawgraphs](http://rawgraphs.io/)
 
 ## 5. Project Work and Discussion
 
-distant versus close reading. digital editing and annotating, versus computation. 
+Distant versus close reading. Digital editing and annotating, versus computation. 
 
 # Resources
 

@@ -14,7 +14,7 @@ Also - [Maura Ives Afterword](https://ida.lib.uidaho.edu:2337/article/550525 ) t
 
 ## 2. Platform Introductions
 
-[Victorian Web](http://www.victorianweb.org/misc/vwintro.html) (since 1987, pre-internet)
+[Victorian Web](http://www.victorianweb.org/misc/vwintro.html) (since 1987, pre-internet DH project)
 
 - Omeka (popular CMS for exhibits and teaching. See [Getting Started with Omeka](http://uilibraryworkshop.omeka.net/) workshop. Classroom example [The History Harvest](http://historyharvest.unl.edu/).)
 - WordPress (most common CMS in the world. Powerful web-based admin interface, user authentication, media management, comments. See [wp-demo](https://uiworkshop.wordpress.com/) workshop. Profile example [Jentry Sayers](http://www.jenterysayers.com/).)
@@ -44,6 +44,8 @@ Web archives are raw material for research and best practice for capturing impor
 - Incredible LOC [Web Archiving video](https://youtu.be/T0943YkhLWU) and [LOC web archive collections](https://www.loc.gov/websites/collections/)
 
 ## 5. Personal Project Work 
+
+Time to discuss and work on personal project ideas.
 
 # Resources
 

@@ -2,7 +2,7 @@
 
 Day: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.md) | [5](day-5.md)
 
-> 
+> Critical reflection
 
 ## 1. How Did They Make That?
 
@@ -15,10 +15,11 @@ Dissect example projects and publications.
 
 Daniel Allington, Sarah Brouillette, David Golumbia, [Neoliberal Tools (and Archives): A Political History of Digital Humanities](https://lareviewofbooks.org/article/neoliberal-tools-archives-political-history-digital-humanities/), LARB (2016). 
 
-Future:
+Discuss future:
 - course integrations. 
 - research directions.
 - skills developments.
+- CDIL priorities and possibilities.
 
 ## 3. Projects
 
